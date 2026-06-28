@@ -169,48 +169,46 @@ Goal: Create a complete go-to-market strategy including market research, competi
 * Campaign performance analysis
 
 ---
-
 ## Screenshots
 
 ### Input Form
-![Input Form](assets/screenshots/input.png)
+![Input Form](./03_assets/screenshots/input.png)
 
 ### Research Agent
-![Research Agent](assets/screenshots/research.png)
+![Research Agent](./03_assets/screenshots/research.png)
 
 ### Research Results
-![Research Results](assets/screenshots/research_result.png)
+![Research Results](./03_assets/screenshots/research_result.png)
 
 ### Strategy Agent
-![Strategy Agent](assets/screenshots/strategy.png)
+![Strategy Agent](./03_assets/screenshots/strategy.png)
 
 ### Strategy Results
-![Strategy Results](assets/screenshots/strategy_result.png)
+![Strategy Results](./03_assets/screenshots/strategy_result.png)
 
 ### Buyer Personas and Channels
-![Buyer Personas and Channels](assets/screenshots/strategy_result2.png)
+![Buyer Personas and Channels](./03_assets/screenshots/strategy_result2.png)
 
 ### Content Agent
-![Content Agent](assets/screenshots/content.png)
+![Content Agent](./03_assets/screenshots/content.png)
 
 ### Content Calendar
-![Content Calendar](assets/screenshots/content_result.png)
+![Content Calendar](./03_assets/screenshots/content_result.png)
 
 ### Content Gallery
-![Content Gallery](assets/screenshots/content_result2.png)
+![Content Gallery](./03_assets/screenshots/content_result2.png)
 
 ### Brand Alignment Agent
-![Brand Alignment Agent](assets/screenshots/brand_alignment.png)
+![Brand Alignment Agent](./03_assets/screenshots/brand_alignment.png)
 
 ### Brand Alignment Results
-![Brand Alignment Results](assets/screenshots/brand_result.png)
+![Brand Alignment Results](./03_assets/screenshots/brand_result.png)
 
 ### Analysis Dashboard
-![Analysis Dashboard](assets/screenshots/analysis_result.png)
+![Analysis Dashboard](./03_assets/screenshots/analysis_result.png)
 
 ### Analysis Report
-![Analysis Report](assets/screenshots/analysis_result2.png)
-
+![Analysis Report](./03_assets/screenshots/analysis_result2.png)
 ## Future Work
 
 * Social media API integration
