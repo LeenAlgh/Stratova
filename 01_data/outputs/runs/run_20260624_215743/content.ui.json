@@ -1,0 +1,145 @@
+{
+  "run_id": "run_20260624_215743",
+  "agent": "content",
+  "status": "completed",
+  "generated_at": "2026-06-24T22:02:28.088715",
+  "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_215743\\content.ui.json",
+  "summary": "# Content Assets ## 1. Content Calendar ### 30-Day Content Calendar for Lumora Pipeline Copilot | Day | Platform | Content Type | Asset Title | Topic | Target Persona | Funnel Stage | Objective | CTA | Brand Alignment Note | |-----|--------------------|----------------------|-----------------------------------------------|-----------------------------------------|--------------------|--------------------|-----------------------------------------------|----------------------------------|---------------------------------------------------| | 1 | LinkedIn | Thought Leadership | \"The Future of Revenue Operations\" | Trends in RevOps | RevOps Rachel | Awareness | Establish Lumora as a thought lead...",
+  "sections": [
+    {
+      "title": "30-Day Content Calendar for Lumora Pipeline Copilot",
+      "body": "| Day | Platform           | Content Type         | Asset Title                                   | Topic                                   | Target Persona    | Funnel Stage      | Objective                                     | CTA                             | Brand Alignment Note                               |\n|-----|--------------------|----------------------|-----------------------------------------------|-----------------------------------------|--------------------|--------------------|-----------------------------------------------|----------------------------------|---------------------------------------------------|\n| 1   | LinkedIn           | Thought Leadership    | \"The Future of Revenue Operations\"           | Trends in RevOps                       | RevOps Rachel       | Awareness           | Establish Lumora as a thought leader         | Learn More                     | Aligns with practical and outcome-focused voice.  |\n| 3   | Email              | Newsletter            | \"Unlocking Actionable Insights with AI\"     | Practical AI applications               | Sales Sam           | Awareness           | Educate on AI benefits for sales teams       | Read the Full Article          | Supports collaborative and adaptive messaging style. |\n| 5   | LinkedIn           | Case Study            | \"How Company X Improved Forecast Accuracy\"   | Real-world success with Lumora         | RevOps Rachel       | Consideration       | Showcase effectiveness of Lumora              | Download Case Study            | Reflects the brand's focus on practical outcomes.  |\n| 7   | Webinar            | Live Demo             | \"Seamless Integration with Lumora\"           | Integration process                     | Techie Tom          | Consideration       | Demonstrate ease of implementation            | Register Now                   | Emphasizes partnership and enablement language.    |\n| 10  | Blog               | In-depth Article      | \"5 Key Benefits of User-Friendly RevOps Tools\"| User-friendliness in RevOps            | All Personas         | Awareness           | Highlight importance of user-friendly tools   | Explore More                   | Aligns with clear and warm brand tone.            |\n| 12  | LinkedIn           | Video Testimonial     | \"Customer Success: Boosting Sales with Lumora\"| Customer experiences                    | Sales Sam           | Decision            | Build credibility through testimonials         | Watch Now                     | Supports practical and outcome-focused approach.   |\n| 15  | Email              | Drip Campaign         | \"Maximize Your Revenue Operations Efficiency\" | Efficiency tips with Lumora            | RevOps Rachel       | Consideration       | Nurture leads with actionable insights        | Get Started                    | Aligns with warm and practical messaging.          |\n| 17  | LinkedIn           | Poll                  | \"What’s Your Biggest RevOps Challenge?\"      | Engagement with audience                | All Personas         | Engagement          | Gather insights on audience pain points       | Share Your Thoughts            | Encourages community interaction and feedback.     |\n| 20  | Blog               | How-To Guide          | \"Implementing Lumora: A Step-by-Step Guide\" | Implementation process                  | Techie Tom          | Decision            | Provide clear guidance on implementation      | Download the Guide             | Reflects the brand's focus on practical solutions.  |\n| 22  | Webinar            | Expert Panel          | \"Navigating RevOps Challenges in 2023\"      | Industry challenges                     | RevOps Rachel       | Awareness           | Position Lumora as a thought leader           | Join the Discussion            | Emphasizes collaboration and adaptability.         |\n| 25  | LinkedIn           | Infographic           | \"RevOps Success Metrics You Should Track\"    | Key metrics for RevOps                 | Sales Sam           | Awareness           | Educate audience on important metrics         | View Infographic               | Aligns with clear and practical messaging.         |\n| 27  | Email              | Webinar Invitation     | \"Join Our Upcoming Webinar on RevOps Trends\" | Upcoming webinar details                | All Personas         | Awareness           | Drive attendance for webinar                   | Register Here                  | Supports collaborative and adaptive messaging style. |\n| 30  | LinkedIn           | Thought Leadership     | \"The Importance of Cost-Effective RevOps Tools\"| Cost-effectiveness in RevOps           | RevOps Rachel       | Decision            | Reinforce Lumora's value proposition          | Learn More                     | Aligns with practical and outcome-focused voice.   |\n\nThis content calendar is designed to engage the target personas effectively, guiding them through the awareness, consideration, and decision stages of the funnel while maintaining alignment with Lumora's brand identity and messaging pillars."
+    },
+    {
+      "title": "SEO Keywords for Lumora Pipeline Copilot",
+      "body": "#### 1. Primary Keywords\n- **Revenue Operations Software**\n  - **Search Intent**: Informational/Transactional\n  - **Suggested Usage**: Blog articles, website copy, case studies\n  - **Priority Level**: High\n\n- **User-Friendly RevOps Tools**\n  - **Search Intent**: Informational/Transactional\n  - **Suggested Usage**: Blog articles, thought leadership pieces, infographics\n  - **Priority Level**: High\n\n- **AI for Revenue Operations**\n  - **Search Intent**: Informational\n  - **Suggested Usage**: Blog articles, webinars, email newsletters\n  - **Priority Level**: Medium\n\n#### 2. Secondary Keywords\n- **Forecast Accuracy Tools**\n  - **Search Intent**: Informational/Transactional\n  - **Suggested Usage**: Case studies, how-to guides, blog articles\n  - **Priority Level**: Medium\n\n- **CRM Integration Solutions**\n  - **Search Intent**: Informational/Transactional\n  - **Suggested Usage**: Webinar content, blog articles, website copy\n  - **Priority Level**: Medium\n\n- **Cost-Effective RevOps Solutions**\n  - **Search Intent**: Informational/Transactional\n  - **Suggested Usage**: Thought leadership articles, infographics, email campaigns\n  - **Priority Level**: Medium\n\n#### 3. Long-Tail Keywords\n- **Best Practices for Implementing Revenue Operations Software**\n  - **Search Intent**: Informational\n  - **Suggested Usage**: How-to guides, blog articles, webinars\n  - **Priority Level**: Low\n\n- **How to Improve Forecast Accuracy in Sales Teams**\n  - **Search Intent**: Informational\n  - **Suggested Usage**: Blog articles, email newsletters, webinars\n  - **Priority Level**: Low\n\n- **Seamless Integration of RevOps Tools with Existing CRM**\n  - **Search Intent**: Informational/Transactional\n  - **Suggested Usage**: Case studies, how-to guides, website copy\n  - **Priority Level**: Low\n\n#### 4. Search Intent Overview\n- **Informational**: Users looking for knowledge, insights, or guidance related to revenue operations and AI tools.\n- **Transactional**: Users ready to explore or purchase revenue operations software solutions.\n\n#### 5. Suggested Usage Across Content Assets\n- **Blog Articles**: Utilize primary and secondary keywords to enhance SEO and drive organic traffic. Long-tail keywords can be incorporated into specific articles addressing niche topics.\n- **Website Copy**: Focus on primary keywords for core pages to improve search visibility and relevance.\n- **Email Campaigns**: Use secondary keywords in subject lines and body content to engage recipients and drive click-through rates.\n- **Webinars**: Incorporate primary and secondary keywords in titles and descriptions to attract the target audience.\n\n#### 6. Priority Level Summary\n- **High Priority**: Revenue Operations Software, User-Friendly RevOps Tools, AI for Revenue Operations\n- **Medium Priority**: Forecast Accuracy Tools, CRM Integration Solutions, Cost-Effective RevOps Solutions\n- **Low Priority**: Best Practices for Implementing Revenue Operations Software, How to Improve Forecast Accuracy in Sales Teams, Seamless Integration of RevOps Tools with Existing CRM\n\nThese SEO keywords are tailored to align with Lumora's GTM strategy, targeting mid-market B2B SaaS RevOps leaders, and supporting the content calendar effectively."
+    },
+    {
+      "title": "Post 1",
+      "body": "**Title:** The Future of Revenue Operations  \n**Platform:** LinkedIn  \n**Target Persona:** RevOps Rachel  \n**Funnel Stage:** Awareness  \n\n**Full Post Copy:**  \nIn today's fast-paced business environment, revenue operations are evolving rapidly. As leaders in the B2B SaaS space, it's crucial to stay ahead of trends that can impact your team's effectiveness. At Lumora, we believe that practical AI solutions can transform how you manage revenue operations. Discover how embracing user-friendly tools can enhance your forecasting accuracy and streamline processes. Let's explore the future of RevOps together.  \n\n**CTA:** Learn More  \n\n---"
+    },
+    {
+      "title": "Post 2",
+      "body": "**Title:** Unlocking Actionable Insights with AI  \n**Platform:** Email Newsletter  \n**Target Persona:** Sales Sam  \n**Funnel Stage:** Awareness  \n\n**Full Post Copy:**  \nDear Sales Leaders,  \n\nAre you struggling to extract actionable insights from your data? With Lumora Pipeline Copilot, you can turn complex data into clear, actionable strategies that drive sales performance. Our user-friendly platform is designed to provide immediate value without the need for extensive training. Learn how AI can empower your sales team to make informed decisions faster and improve overall efficiency.  \n\n**CTA:** Read the Full Article  \n\n---"
+    },
+    {
+      "title": "Post 3",
+      "body": "**Title:** How Company X Improved Forecast Accuracy  \n**Platform:** LinkedIn  \n**Target Persona:** RevOps Rachel  \n**Funnel Stage:** Consideration  \n\n**Full Post Copy:**  \nCase Study Spotlight: Company X faced challenges with forecast accuracy and operational efficiency. After implementing Lumora Pipeline Copilot, they experienced a significant improvement in their forecasting processes. Our solution's ease of use and rapid implementation allowed them to achieve results without the typical complexities of new software. Discover how Lumora can help your organization achieve similar success.  \n\n**CTA:** Download Case Study  \n\n---"
+    },
+    {
+      "title": "Post 4",
+      "body": "**Title:** Seamless Integration with Lumora  \n**Platform:** Webinar  \n**Target Persona:** Techie Tom  \n**Funnel Stage:** Consideration  \n\n**Full Post Copy:**  \nJoin us for an exclusive live demo on how Lumora Pipeline Copilot integrates effortlessly with your existing CRM systems. Our expert panel will guide you through the integration process, showcasing how our user-friendly platform requires minimal technical intervention. Don't miss this opportunity to see how Lumora can streamline your revenue operations and enhance your team's productivity.  \n\n**CTA:** Register Now  \n\n---"
+    },
+    {
+      "title": "Post 5",
+      "body": "**Title:** 5 Key Benefits of User-Friendly RevOps Tools  \n**Platform:** Blog  \n**Target Persona:** All Personas  \n**Funnel Stage:** Awareness  \n\n**Full Post Copy:**  \nIn the world of revenue operations, user-friendliness is paramount. Discover the top five benefits of adopting user-friendly RevOps tools like Lumora Pipeline Copilot. From improved forecasting accuracy to enhanced team productivity, our platform is designed to meet the needs of mid-market B2B SaaS companies. Learn how prioritizing ease of use can lead to better outcomes for your organization.  \n\n**CTA:** Explore More  \n\n---"
+    },
+    {
+      "title": "Post 6",
+      "body": "**Title:** Join Our Upcoming Webinar on RevOps Trends  \n**Platform:** Email  \n**Target Persona:** All Personas  \n**Funnel Stage:** Awareness  \n\n**Full Post Copy:**  \nWe are excited to invite you to our upcoming webinar, \"Navigating RevOps Challenges in 2023.\" This session will cover the latest trends and challenges in revenue operations, featuring insights from industry experts. Whether you're a RevOps leader, sales executive, or IT manager, this webinar will provide valuable information to help you stay ahead in the evolving landscape.  \n\n**CTA:** Register Here"
+    },
+    {
+      "title": "Email 1",
+      "body": "**Target Persona:** Sales Sam  \n**Funnel Stage:** Awareness  \n**Subject Line:** Unlocking Actionable Insights with AI  \n**Preview Text:** Discover how AI can transform your sales operations.  \n\n**Email Body:**  \nHi Sam,\n\nIn today's competitive landscape, having actionable insights is crucial for driving sales performance. At Lumora, we understand the challenges you face in extracting meaningful data from your existing systems. \n\nOur latest article, \"Unlocking Actionable Insights with AI,\" explores practical applications of AI that can help your sales team make informed decisions faster. By leveraging our user-friendly revenue intelligence module, you can enhance forecast accuracy and streamline your operations without the complexity of traditional solutions.\n\nWe invite you to read the full article and discover how Lumora Pipeline Copilot can empower your team to achieve more with less.\n\n[Read the Full Article](#)\n\nBest regards,  \n[Your Name]  \n[Your Position]  \nLumora  \n\n---"
+    },
+    {
+      "title": "Email 2",
+      "body": "**Target Persona:** RevOps Rachel  \n**Funnel Stage:** Consideration  \n**Subject Line:** Maximize Your Revenue Operations Efficiency  \n**Preview Text:** Learn how to enhance your RevOps with actionable insights.  \n\n**Email Body:**  \nHi Rachel,\n\nAs a Director of Revenue Operations, you know that maximizing efficiency is key to driving revenue growth. At Lumora, we’re committed to helping you achieve just that.\n\nIn our latest email series, we share actionable insights on how to streamline your revenue operations using Lumora Pipeline Copilot. Our platform is designed to provide you with user-friendly tools that require minimal training, ensuring a smooth transition for your team.\n\nDon’t miss out on these valuable tips that can help you improve forecast accuracy and reduce manual data entry. \n\n[Get Started](#)\n\nLooking forward to supporting your RevOps journey,  \n[Your Name]  \n[Your Position]  \nLumora  \n\n---"
+    },
+    {
+      "title": "Email 3",
+      "body": "**Target Persona:** Techie Tom  \n**Funnel Stage:** Decision  \n**Subject Line:** Implementing Lumora: A Step-by-Step Guide  \n**Preview Text:** Discover how easy it is to integrate Lumora with your existing systems.  \n\n**Email Body:**  \nHi Tom,\n\nWe understand that as an IT Manager, ensuring seamless integration with existing systems is a top priority for you. That’s why we’ve created a comprehensive guide to help you implement Lumora Pipeline Copilot effortlessly.\n\nOur \"Step-by-Step Guide\" details the integration process, highlighting how our platform can work with your current CRM systems without heavy lifting. With Lumora, you can enhance your revenue operations while maintaining data security and minimizing the need for extensive IT support.\n\nDownload the guide today and see how easy it is to get started with Lumora.\n\n[Download the Guide](#)\n\nBest,  \n[Your Name]  \n[Your Position]  \nLumora  \n\n---"
+    },
+    {
+      "title": "Email 4",
+      "body": "**Target Persona:** All Personas  \n**Funnel Stage:** Awareness  \n**Subject Line:** Join Our Upcoming Webinar on RevOps Trends  \n**Preview Text:** Don’t miss insights from industry experts on RevOps challenges.  \n\n**Email Body:**  \nHi there,\n\nWe’re excited to invite you to our upcoming webinar, \"Navigating RevOps Challenges in 2023.\" Join us for an engaging discussion with industry experts as we explore the latest trends and challenges facing revenue operations today.\n\nThis is a great opportunity to learn how Lumora Pipeline Copilot can help you tackle these challenges with ease. We’ll cover practical strategies for improving forecast accuracy and streamlining your operations.\n\nReserve your spot now and be part of the conversation!\n\n[Register Here](#)\n\nLooking forward to seeing you there,  \n[Your Name]  \n[Your Position]  \nLumora"
+    },
+    {
+      "title": "Paid Ad Variations for Lumora Pipeline Copilot",
+      "body": "---\n\n**Ad Variation 1**  \n- **Platform**: LinkedIn  \n- **Target Persona**: RevOps Rachel  \n- **Funnel Stage**: Awareness  \n- **Headline**: Transform Your Revenue Operations Today  \n- **Primary Text**: Discover how Lumora Pipeline Copilot simplifies revenue operations with user-friendly AI solutions. Say goodbye to complex setups and hello to actionable insights.  \n- **CTA**: Learn More  \n\n---\n\n**Ad Variation 2**  \n- **Platform**: LinkedIn  \n- **Target Persona**: Sales Sam  \n- **Funnel Stage**: Consideration  \n- **Headline**: Boost Your Sales Forecast Accuracy  \n- **Primary Text**: Unlock the potential of your sales team with Lumora. Our platform delivers actionable insights that enhance forecasting and streamline operations.  \n- **CTA**: Download Case Study  \n\n---\n\n**Ad Variation 3**  \n- **Platform**: LinkedIn  \n- **Target Persona**: Techie Tom  \n- **Funnel Stage**: Decision  \n- **Headline**: Seamless Integration Awaits  \n- **Primary Text**: Integrate Lumora Pipeline Copilot effortlessly with your existing CRM. Experience minimal disruption and maximum efficiency in your operations.  \n- **CTA**: Get Started  \n\n---\n\n**Ad Variation 4**  \n- **Platform**: LinkedIn  \n- **Target Persona**: All Personas  \n- **Funnel Stage**: Engagement  \n- **Headline**: What’s Your Biggest RevOps Challenge?  \n- **Primary Text**: Join the conversation! Share your top challenges in revenue operations and discover how Lumora can help you overcome them.  \n- **CTA**: Share Your Thoughts  \n\n---\n\n**Ad Variation 5**  \n- **Platform**: LinkedIn  \n- **Target Persona**: RevOps Rachel  \n- **Funnel Stage**: Awareness  \n- **Headline**: Cost-Effective Solutions for RevOps  \n- **Primary Text**: Explore how Lumora Pipeline Copilot provides powerful insights without breaking the bank. Experience the benefits of practical AI for your team.  \n- **CTA**: Learn More  \n\n---"
+    },
+    {
+      "title": "Funnel Stage: Awareness",
+      "body": "---"
+    },
+    {
+      "title": "Introduction",
+      "body": "In the rapidly evolving landscape of B2B SaaS, revenue operations (RevOps) is emerging as a critical function that drives efficiency and growth. As organizations strive to streamline their processes and improve forecasting accuracy, understanding the future of RevOps is essential for leaders in the field. This article explores the key trends shaping RevOps and how adopting user-friendly tools can empower teams to achieve their goals."
+    },
+    {
+      "title": "The Shift Towards Integration",
+      "body": "One of the most significant trends in RevOps is the increasing emphasis on integration. Companies are moving away from siloed departments and are instead focusing on creating cohesive workflows that connect sales, marketing, and customer success. This shift not only enhances collaboration but also enables organizations to leverage data more effectively. By integrating various systems, RevOps leaders can gain a holistic view of their operations, leading to better decision-making."
+    },
+    {
+      "title": "Embracing Data-Driven Insights",
+      "body": "Data is at the heart of successful RevOps strategies. As organizations collect more data than ever before, the ability to analyze and derive actionable insights is paramount. RevOps leaders must prioritize tools that provide real-time analytics and reporting capabilities. This empowers teams to identify trends, forecast accurately, and make informed decisions based on data rather than intuition."
+    },
+    {
+      "title": "The Importance of User-Friendly Tools",
+      "body": "As RevOps continues to evolve, the demand for user-friendly tools is on the rise. Mid-market B2B SaaS companies, in particular, are seeking solutions that require minimal training and support. The ease of implementation is a critical factor in the decision-making process. Tools that are intuitive and straightforward not only reduce the burden on teams but also enhance overall productivity."
+    },
+    {
+      "title": "Cost-Effectiveness as a Key Consideration",
+      "body": "In today’s economic climate, cost-effectiveness is more important than ever. RevOps leaders are tasked with maximizing their budgets while still delivering value. Solutions that offer powerful insights without exorbitant costs are highly sought after. By focusing on cost-effective tools, organizations can achieve their revenue goals without compromising on quality."
+    },
+    {
+      "title": "The Role of AI in RevOps",
+      "body": "Artificial intelligence (AI) is transforming the way RevOps teams operate. From automating mundane tasks to providing predictive analytics, AI-driven solutions can significantly enhance efficiency. However, it’s crucial for organizations to adopt AI tools that are practical and aligned with their specific needs. By leveraging AI, RevOps leaders can unlock new levels of productivity and gain a competitive edge."
+    },
+    {
+      "title": "Conclusion",
+      "body": "The future of revenue operations is bright, with opportunities for growth and innovation on the horizon. By embracing integration, data-driven insights, user-friendly tools, cost-effectiveness, and AI, RevOps leaders can position their organizations for success. As you navigate this evolving landscape, consider how Lumora Pipeline Copilot can support your RevOps initiatives and drive meaningful outcomes."
+    },
+    {
+      "title": "CTA: Learn More",
+      "body": "---"
+    },
+    {
+      "title": "Funnel Stage: Awareness",
+      "body": "---"
+    },
+    {
+      "title": "Introduction",
+      "body": "In the competitive world of B2B SaaS, the effectiveness of revenue operations (RevOps) can make or break an organization’s success. As companies strive to enhance their revenue processes, the importance of user-friendly tools cannot be overstated. In this article, we will explore five key benefits of adopting user-friendly RevOps tools and how they can transform your organization."
+    },
+    {
+      "title": "1. Accelerated Implementation",
+      "body": "One of the primary advantages of user-friendly RevOps tools is the speed of implementation. Traditional software solutions often come with complex setups that require extensive training and support. In contrast, user-friendly tools enable teams to get started quickly, minimizing downtime and disruption. This is particularly crucial for mid-market B2B SaaS companies looking to maintain momentum in a competitive landscape."
+    },
+    {
+      "title": "2. Enhanced User Adoption",
+      "body": "User adoption is a critical factor in the success of any software implementation. Tools that are intuitive and easy to navigate encourage team members to embrace the technology rather than resist it. When employees feel comfortable using a tool, they are more likely to leverage its full potential, leading to improved productivity and better outcomes."
+    },
+    {
+      "title": "3. Improved Collaboration",
+      "body": "User-friendly RevOps tools foster collaboration across departments. When teams can easily access and share information, silos begin to break down. This collaborative environment allows for more effective communication and alignment between sales, marketing, and customer success teams. As a result, organizations can respond more swiftly to market changes and customer needs."
+    },
+    {
+      "title": "4. Actionable Insights at Your Fingertips",
+      "body": "The ability to derive actionable insights from data is a game-changer for RevOps teams. User-friendly tools often come equipped with robust analytics features that present data in a digestible format. This empowers teams to make informed decisions based on real-time information, ultimately driving better forecasting accuracy and revenue growth."
+    },
+    {
+      "title": "5. Cost-Effectiveness",
+      "body": "In an era where budgets are tight, cost-effectiveness is a top priority for RevOps leaders. User-friendly tools typically require less training and support, translating to lower implementation costs. Additionally, the efficiency gains achieved through these tools can lead to significant cost savings over time. Investing in user-friendly solutions is not just a smart choice; it’s a strategic one."
+    },
+    {
+      "title": "Conclusion",
+      "body": "The benefits of user-friendly RevOps tools are clear: accelerated implementation, enhanced user adoption, improved collaboration, actionable insights, and cost-effectiveness. As organizations navigate the complexities of revenue operations, prioritizing user-friendly solutions can lead to transformative results. Consider how Lumora Pipeline Copilot can help your team streamline processes and achieve your revenue goals."
+    },
+    {
+      "title": "CTA: Explore More",
+      "body": "---"
+    }
+  ],
+  "metrics": {},
+  "guardrails": {
+    "status": "pass",
+    "score": 83,
+    "evaluated_agent": "content",
+    "violations": [],
+    "recommendations": [],
+    "rationale": "The output is comprehensive and includes all required elements such as a content calendar, SEO keywords, social media posts, email campaigns, paid ad copy, and blog articles. It adheres to the agent's role and responsibilities without any critical violations or unsupported claims."
+  },
+  "file_type": "ui_only",
+  "input_summary": "{\"strategy_path\": \"C:\\\\Users\\\\Geela\\\\Documents\\\\GitHub\\\\Stratova\\\\outputs\\\\runs\\\\run_20260624_215743\\\\strategy.ui.json\", \"strategy_data\": {\"agent\": \"strategy\", \"status\": \"completed\", \"generated_at\": \"2026-06-24T22:01:06.911561\", \"input\": {\"research_data\": {\"agent\": \"research\", \"status\": \"completed\", \"generated_at\": \"2026-06-24T21:58:36.305571\", \"user_input\": \"Research the GTM opportunity.\\n\\nProduct:\\nLumora Pipeline Copilot — a revenue-intelligence module that auto-instruments CRM data and flag..."
+}

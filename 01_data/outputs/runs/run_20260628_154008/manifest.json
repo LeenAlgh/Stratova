@@ -1,0 +1,59 @@
+{
+  "run_id": "run_20260628_154008",
+  "created_at": "2026-06-28T15:41:28.092906",
+  "status": "running",
+  "files": {
+    "research": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\research.ui.json",
+    "strategy": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\strategy.ui.json",
+    "content": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\content.ui.json",
+    "brand_alignment": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\brand_alignment.ui.json",
+    "analysis": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\analysis.ui.json",
+    "final_output": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\final_output.ui.json"
+  },
+  "ui_files": {
+    "research": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\research.ui.json",
+    "strategy": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\strategy.ui.json",
+    "content": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\content.ui.json",
+    "brand_alignment": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\brand_alignment.ui.json",
+    "analysis": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\analysis.ui.json",
+    "final_output": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\final_output.ui.json"
+  },
+  "agents": {
+    "research": {
+      "status": "completed",
+      "updated_at": "2026-06-28T15:41:28.092906",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\research.ui.json",
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\research.ui.json"
+    },
+    "strategy": {
+      "status": "completed",
+      "updated_at": "2026-06-28T15:43:50.230849",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\strategy.ui.json",
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\strategy.ui.json"
+    },
+    "content": {
+      "status": "completed",
+      "updated_at": "2026-06-28T15:44:54.679155",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\content.ui.json",
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\content.ui.json"
+    },
+    "brand_alignment": {
+      "status": "completed",
+      "updated_at": "2026-06-28T15:45:22.708957",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\brand_alignment.ui.json",
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\brand_alignment.ui.json"
+    },
+    "analysis": {
+      "status": "completed",
+      "updated_at": "2026-06-28T15:45:32.042263",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\analysis.ui.json",
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\analysis.ui.json"
+    },
+    "final_output": {
+      "status": "completed",
+      "updated_at": "2026-06-28T15:45:32.113329",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\final_output.ui.json",
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\final_output.ui.json"
+    }
+  }
+}

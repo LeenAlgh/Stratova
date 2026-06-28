@@ -1,0 +1,67 @@
+{
+  "run_id": "run_20260624_215743",
+  "agent": "analysis",
+  "status": "completed",
+  "generated_at": "2026-06-24T22:03:17.772321",
+  "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_215743\\analysis.ui.json",
+  "summary": "# GTM Campaign Analysis Report ## 1. Performance Summary The campaign generated a total of 150,000 impressions and reached 120,000 unique users. It achieved 3,800 clicks, resulting in 7,500 engagements. The campaign successfully generated 450 leads and 90 conversions, with a total expenditure of $2,500 and revenue of $8,500. ## 2. CTR Analysis The Click-Through Rate (CTR) for the campaign is 2.53%, indicating that a moderate percentage of users who viewed the campaign clicked on the advertisement. This suggests effective targeting and messaging. ## 3. Engagement Analysis The engagement rate stands at 5.0%, reflecting a healthy level of interaction with the content. With a total of 7,500 enga...",
+  "sections": [
+    {
+      "title": "1. Performance Summary",
+      "body": "The campaign generated a total of 150,000 impressions and reached 120,000 unique users. It achieved 3,800 clicks, resulting in 7,500 engagements. The campaign successfully generated 450 leads and 90 conversions, with a total expenditure of $2,500 and revenue of $8,500."
+    },
+    {
+      "title": "2. CTR Analysis",
+      "body": "The Click-Through Rate (CTR) for the campaign is 2.53%, indicating that a moderate percentage of users who viewed the campaign clicked on the advertisement. This suggests effective targeting and messaging."
+    },
+    {
+      "title": "3. Engagement Analysis",
+      "body": "The engagement rate stands at 5.0%, reflecting a healthy level of interaction with the content. With a total of 7,500 engagements, the campaign successfully captured the audience's interest."
+    },
+    {
+      "title": "4. Lead Analysis",
+      "body": "The campaign generated a total of 450 leads, resulting in a lead conversion rate of 11.84%. This indicates that the campaign was effective in converting interested users into potential customers."
+    },
+    {
+      "title": "5. Conversion Analysis",
+      "body": "With 90 conversions achieved, the conversion rate is 20.0%. This demonstrates a strong performance in turning leads into actual sales or desired actions, showcasing the effectiveness of the campaign's call-to-action."
+    },
+    {
+      "title": "6. ROI Analysis",
+      "body": "The campaign yielded a return on investment (ROI) of 240.0%. With total revenue of $8,500 against a cost of $2,500, the campaign proved to be highly profitable, generating significant returns relative to the investment made."
+    },
+    {
+      "title": "7. Strengths",
+      "body": "- High ROI of 240.0%, indicating effective budget utilization.\n- Strong conversion rate of 20.0%, showcasing the campaign's ability to drive sales.\n- Good engagement rate of 5.0%, reflecting audience interest and interaction."
+    },
+    {
+      "title": "8. Weaknesses",
+      "body": "- The CTR of 2.53% could be improved to enhance click engagement.\n- The lead conversion rate of 11.84% suggests there may be room for optimization in nurturing leads into conversions."
+    },
+    {
+      "title": "9. Key Insights",
+      "body": "The campaign performed well overall, demonstrating strong engagement and conversion metrics. While the ROI and conversion rates are commendable, focusing on improving the CTR and lead conversion processes could further enhance campaign effectiveness in future iterations."
+    }
+  ],
+  "metrics": {
+    "ctr_percent": null,
+    "conversion_rate_percent": null,
+    "roi_percent": null,
+    "leads": null,
+    "conversions": null
+  },
+  "guardrails": {
+    "status": "pass",
+    "score": 94,
+    "evaluated_agent": "analysis",
+    "violations": [
+      "Generated optimization suggestions in the weaknesses section."
+    ],
+    "recommendations": [
+      "Remove optimization suggestions from the weaknesses section."
+    ],
+    "rationale": "The output is mostly complete and well-structured, fulfilling most required elements. However, it includes optimization suggestions in the weaknesses section, which is outside the agent's allowed responsibilities."
+  },
+  "file_type": "ui_only",
+  "input_summary": "{\"campaign_dataset\": \"Campaign_Performance\", \"feedback_dataset\": \"Customer_Feedback\"}"
+}

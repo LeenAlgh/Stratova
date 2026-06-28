@@ -1,0 +1,79 @@
+{
+  "run_id": "run_20260624_213146",
+  "updated_at": "2026-06-24T21:37:19.568790",
+  "agents": {
+    "research": {
+      "status": "completed",
+      "summary": "## 1. Market Scope - **Product/Service:** Lumora Pipeline Copilot — a revenue-intelligence module that auto-instruments CRM data and flags at-risk deals. - **Market:** Revenue intelligence / RevOps, Canada, characterized by a crowded landscape of enterprise incumbents requiring long implementations. - **Audience:** Mid-market B2B SaaS RevOps leaders (200–2,000 employees) responsible for forecast accuracy, lacking engineering support, and fearing failed rollouts. - **Assumptions (if any):** The target audience is seeking simpler, more efficient solutions due to past challenges with complex implementations. ## 2. Company Context No relevant internal company/product knowledge was found in the k...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\research.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\research.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-24T21:32:48.848843"
+    },
+    "strategy": {
+      "status": "completed",
+      "summary": "# GTM Strategy Report ## 1. Executive Summary The GTM strategy for Lumora Pipeline Copilot positions the product as a user-friendly revenue intelligence solution tailored specifically for mid-market B2B SaaS RevOps leaders in Canada. By emphasizing simplicity, speed of implementation, and automation of CRM data management, Lumora can effectively address the pain points of its target audience. This strategy aligns with the brand's voice and positioning, ensuring a practical and outcome-focused approach that resonates with potential customers. ## 2. Brand Alignment Foundation - **Brand Voice**: Clear before clever; credible but not stiff; warm and practical; outcome-focused without exaggeratio...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\strategy.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\strategy.ui.json",
+      "section_count": 25,
+      "updated_at": "2026-06-24T21:35:05.650616"
+    },
+    "content": {
+      "status": "completed",
+      "summary": "# Content Assets ## 1. Content Calendar ### 30-Day Content Calendar for Lumora Pipeline Copilot | Day | Platform | Content Type | Asset Title | Topic | Target Persona | Funnel Stage | Objective | CTA | Brand Alignment Note | |-----|----------------|---------------------|-----------------------------------------------|-----------------------------------------------|-----------------------|----------------|----------------------------------------|-------------------------------------|-------------------------------------------------------| | 1 | LinkedIn | Thought Leadership | \"The Future of Revenue Intelligence\" | Trends in Revenue Intelligence | All Personas | Awareness | Establish Lumora as...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\content.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\content.ui.json",
+      "section_count": 31,
+      "updated_at": "2026-06-24T21:36:30.033298"
+    },
+    "brand_alignment": {
+      "status": "completed",
+      "summary": "# Brand Alignment Report ## Brand Guidelines Summary - **Tone and Voice**: Maintain a warm, optimistic, and practical tone; prioritize clarity over cleverness, ensuring credibility without stiffness. The voice should be outcome-focused without exaggeration. - **Positioning**: Position as a practical enterprise AI platform that facilitates governed knowledge access and workflow automation, emphasizing tailored solutions for client needs. - **Messaging Do's**: Focus on helping enterprise teams adopt AI with confidence, improving access to organizational knowledge, and supporting workflows with governed AI automation. Ensure messaging is concise and specific. - **Messaging Don'ts**: Avoid phras...",
+      "metrics": {
+        "overall_score": 63.0,
+        "high_count": 1,
+        "low_count": 4,
+        "total_items": 5
+      },
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\brand_alignment.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\brand_alignment.ui.json",
+      "section_count": 11,
+      "updated_at": "2026-06-24T21:37:10.164620"
+    },
+    "analysis": {
+      "status": "completed",
+      "summary": "# GTM Campaign Analysis Report ## 1. Performance Summary The campaign generated a total of 150,000 impressions and reached 120,000 unique users. It achieved 3,800 clicks, resulting in a total engagement of 7,500 interactions. The campaign successfully generated 450 leads and converted 90 of those leads into customers. The total cost of the campaign was $2,500, leading to a total revenue of $8,500. ## 2. CTR Analysis The Click-Through Rate (CTR) for the campaign was calculated at 2.53%. This indicates that a moderate percentage of users who viewed the campaign clicked through to the desired action, suggesting effective ad placement and messaging. ## 3. Engagement Analysis The engagement rate...",
+      "metrics": {
+        "ctr_percent": null,
+        "conversion_rate_percent": null,
+        "roi_percent": null,
+        "leads": null,
+        "conversions": null
+      },
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\analysis.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\analysis.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-24T21:37:19.445388"
+    },
+    "final_output": {
+      "status": "completed",
+      "summary": "{ \"run_id\": \"run_20260624_213146\", \"research\": { \"agent\": \"research\", \"status\": \"completed\", \"generated_at\": \"2026-06-24T21:32:45.561647\", \"user_input\": \"Research the GTM opportunity.\\n\\nProduct:\\nLumora Pipeline Copilot — a revenue-intelligence module that auto-instruments CRM data and flags at-risk deals, from a mid-market RevOps platform.\\n\\nMarket:\\nRevenue intelligence / RevOps, Canada, crowded with enterprise incumbents that require long implementations.\\n\\nAudience:\\nMid-market B2B SaaS RevOps leaders (200–2,000 employees) who own forecast accuracy but lack engineering support and fear another failed rollout.\\n\\nGoals:\\nDrive qualified free-trial signups in the first 35 days\", \"output...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\final_output.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_213146\\final_output.ui.json",
+      "section_count": 1,
+      "updated_at": "2026-06-24T21:37:19.568767"
+    }
+  },
+  "agent_order": [
+    "research",
+    "strategy",
+    "content",
+    "brand_alignment",
+    "analysis",
+    "final_output"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "run_20260624_182247",
+  "updated_at": "2026-06-24T18:38:01.057277",
+  "agents": {
+    "research": {
+      "status": "completed",
+      "summary": "## 1. Market Scope - **Product/Service**: Lumora Pipeline Copilot — a revenue-intelligence module that auto-instruments CRM data and flags at-risk deals. - **Market**: Revenue intelligence / RevOps in North America, characterized by a crowded landscape dominated by enterprise incumbents requiring long implementations. - **Audience**: Mid-market B2B SaaS RevOps leaders (200–2,000 employees) who are responsible for forecast accuracy but lack engineering support and are apprehensive about potential failed rollouts. - **Assumptions (if any)**: The target audience is likely to prioritize ease of implementation and cost-effectiveness due to previous experiences with complex systems. ## 2. Company...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\research.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\research.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-24T18:24:06.813066"
+    },
+    "strategy": {
+      "status": "completed",
+      "summary": "# GTM Strategy Report ## 1. Executive Summary The GTM strategy for Lumora Pipeline Copilot focuses on positioning the product as a user-friendly revenue intelligence solution tailored for mid-market B2B SaaS RevOps leaders. By emphasizing ease of implementation, cost-effectiveness, and the unique value proposition of auto-instrumenting CRM data, Lumora can effectively differentiate itself in a crowded market. This strategy aligns with the brand's identity as a practical enterprise AI platform, ensuring that messaging is clear, warm, and outcome-focused. ## 2. Brand Alignment Foundation Key brand identity principles used to shape the strategy include: * **Brand voice**: Clear before clever; w...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\strategy.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\strategy.ui.json",
+      "section_count": 21,
+      "updated_at": "2026-06-24T18:27:37.893084"
+    },
+    "content": {
+      "status": "completed",
+      "summary": "# Content Strategy Report ## 1. Content Strategy Summary The content strategy for Lumora Pipeline Copilot is designed to align closely with the approved GTM strategy, emphasizing the product's user-friendly nature and its unique value proposition as a revenue intelligence solution for mid-market B2B SaaS RevOps leaders. By focusing on practical, outcome-driven messaging, the content will effectively communicate the ease of implementation and cost-effectiveness that the target audience seeks. This approach will help differentiate Lumora in a crowded market, reinforcing its identity as a practical enterprise AI platform. Through a mix of thought leadership articles, engaging social media posts...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\content.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\content.ui.json",
+      "section_count": 48,
+      "updated_at": "2026-06-24T18:34:39.062653"
+    },
+    "brand_alignment": {
+      "status": "completed",
+      "summary": "# Brand Alignment Report ## Brand Guidelines Summary - **Tone and Voice**: Maintain a warm, optimistic, and clear tone; prioritize practical and outcome-focused messaging without being stiff or overly clever. - **Positioning**: Position Beam Data as a practical enterprise AI platform that facilitates governed knowledge access and workflow automation. - **Messaging Do's**: Use partnership and enablement language; emphasize tailored, flexible, and scalable approaches; help enterprise teams adopt AI with confidence and improve access to organizational knowledge. - **Messaging Don'ts**: Avoid phrases that suggest instant or revolutionary changes, such as \"revolutionize everything with AI instant...",
+      "metrics": {
+        "overall_score": 62.9,
+        "high_count": 5,
+        "low_count": 28,
+        "total_items": 33
+      },
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\brand_alignment.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\brand_alignment.ui.json",
+      "section_count": 39,
+      "updated_at": "2026-06-24T18:38:00.814781"
+    },
+    "final_output": {
+      "status": "completed",
+      "summary": "{ \"run_id\": \"run_20260624_182247\", \"research\": { \"agent\": \"research\", \"status\": \"completed\", \"generated_at\": \"2026-06-24T18:23:59.245006\", \"user_input\": \"Research the GTM opportunity.\\n\\nProduct:\\nLumora Pipeline Copilot — a revenue-intelligence module that auto-instruments CRM data and flags at-risk deals, from a mid-market RevOps platform.\\n\\nMarket:\\nRevenue intelligence / RevOps, North America, crowded with enterprise incumbents that require long implementations.\\n\\nAudience:\\nMid-market B2B SaaS RevOps leaders (200–2,000 employees) who own forecast accuracy but lack engineering support and fear another failed rollout.\\n\\nGoals:\\nDrive qualified free-trial signups in the first 30 days\",...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\final_output.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_182247\\final_output.ui.json",
+      "section_count": 1,
+      "updated_at": "2026-06-24T18:38:01.057251"
+    }
+  },
+  "agent_order": [
+    "research",
+    "strategy",
+    "content",
+    "brand_alignment",
+    "final_output"
+  ]
+}

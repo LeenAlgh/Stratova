@@ -1,0 +1,79 @@
+{
+  "run_id": "run_20260628_154008",
+  "updated_at": "2026-06-28T15:45:32.096817",
+  "agents": {
+    "research": {
+      "status": "completed",
+      "summary": "## 1. Market Scope - **Product/Service:** Beam Data AI Hub - **Market:** Saudi Arabia - **Audience:** Enterprise data leaders, AI leaders, IT managers, and digital transformation leaders in Saudi Arabia. - **Assumptions (if any):** The audience is increasingly adopting AI and data solutions as part of the digital transformation initiatives driven by Vision 2030. ## 2. Company Context No relevant internal company or product knowledge was found in the knowledge base. ## 3. Market Insights The Saudi Arabia AI Data Center Market is projected to grow at a CAGR of 28.10% by 2032, driven by Vision 2030 and hyperscale cloud investments (source: external research). The generative AI market in Saudi A...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\research.ui.json",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\research.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-28T15:41:28.091605"
+    },
+    "strategy": {
+      "status": "completed",
+      "summary": "# GTM Strategy Report ## 1. Executive Summary The recommended Go-To-Market (GTM) strategy for Beam Data AI Hub focuses on positioning the platform as a practical enterprise AI solution that facilitates governed knowledge access and workflow automation. This strategy aligns with the brand's identity by emphasizing a clear, outcome-focused approach to AI adoption in Saudi Arabia's rapidly growing market. By leveraging insights from the research, the strategy aims to engage enterprise data leaders, AI leaders, IT managers, and digital transformation leaders, while differentiating Beam Data AI Hub from competitors through tailored solutions and exceptional customer support. ## 2. Brand Alignment...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\strategy.ui.json",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\strategy.ui.json",
+      "section_count": 21,
+      "updated_at": "2026-06-28T15:43:50.213982"
+    },
+    "content": {
+      "status": "completed",
+      "summary": "# Content Assets ## 1. Content Calendar ### 30-Day Content Calendar for Beam Data AI Hub | Day | Platform | Content Type | Asset Title | Topic | Target Persona | Funnel Stage | Objective | CTA | Brand Alignment Note | |-----|-------------------|----------------------|------------------------------------------------|----------------------------------------------|-------------------------|-------------------|-----------------------------------------|---------------------------------------|----------------------------------------------------------| | 1 | LinkedIn | Thought Leadership | Unlocking AI Confidence in Enterprises | Importance of AI readiness in digital transformation | Ahmed Al-Fahad...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\content.ui.json",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\content.ui.json",
+      "section_count": 15,
+      "updated_at": "2026-06-28T15:44:54.662275"
+    },
+    "brand_alignment": {
+      "status": "completed",
+      "summary": "# Brand Alignment Report ## Brand Guidelines Summary - **Tone and Voice**: Maintain a warm, optimistic, and clear tone that is practical and outcome-focused. The voice should be credible but not stiff, prioritizing clarity over cleverness. - **Positioning**: Present Beam Data as a practical enterprise AI platform focused on governed knowledge access and workflow automation, emphasizing AI confidence and readiness. - **Messaging Do's**: Use concise and specific language that helps enterprise teams adopt AI with confidence, makes organizational knowledge easier to access, and supports selected workflows with governed AI automation. - **Messaging Don'ts**: Avoid exaggerations and hyperbolic cla...",
+      "metrics": {
+        "overall_score": 85.0,
+        "high_count": 5,
+        "low_count": 0,
+        "total_items": 5
+      },
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\brand_alignment.ui.json",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\brand_alignment.ui.json",
+      "section_count": 11,
+      "updated_at": "2026-06-28T15:45:22.691355"
+    },
+    "analysis": {
+      "status": "completed",
+      "summary": "# GTM Campaign Analysis Report ## 1. Performance Summary The campaign generated a total of 150,000 impressions and reached 120,000 unique users. It achieved a total of 3,800 clicks, resulting in 7,500 engagements. The campaign successfully generated 450 leads and converted 90 of those leads into customers. The total cost of the campaign was $2,500, leading to a total revenue of $8,500. ## 2. CTR Analysis The click-through rate (CTR) for the campaign was calculated at 2.53%. This indicates that approximately 2.53% of users who viewed the campaign clicked on it, demonstrating a moderate level of interest among the audience. ## 3. Engagement Analysis The engagement rate for the campaign was 5.0...",
+      "metrics": {
+        "ctr_percent": null,
+        "conversion_rate_percent": null,
+        "roi_percent": null,
+        "leads": null,
+        "conversions": null
+      },
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\analysis.ui.json",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\analysis.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-28T15:45:32.036264"
+    },
+    "final_output": {
+      "status": "completed",
+      "summary": "{ \"run_id\": \"run_20260628_154008\", \"research\": { \"agent\": \"research\", \"status\": \"completed\", \"generated_at\": \"2026-06-28T15:41:24.400685\", \"user_input\": \"Research the GTM opportunity.\\n\\nProduct:\\nBeam Data AI Hub\\n\\nMarket:\\nSaudi Arabia\\n\\nAudience:\\nEnterprise data leaders, AI leaders, IT managers, and digital transformation leaders in Saudi Arabia.\\n\\nGoals:\\nCreate a complete go-to-market strategy for Beam Data AI Hub. The product is an enterprise AI platform that helps organizations build AI chatbots, knowledge bases, and agentic AI workflows.\", \"output\": { \"research_output\": \"## 1. Market Scope\\n- **Product/Service:** Beam Data AI Hub\\n- **Market:** Saudi Arabia\\n- **Audience:** Enter...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\final_output.ui.json",
+      "full_file_path": "C:\\Users\\itsle\\Downloads\\Stratova_Group01_Code_v1 (1)\\sratovazip\\01_data\\outputs\\runs\\run_20260628_154008\\final_output.ui.json",
+      "section_count": 1,
+      "updated_at": "2026-06-28T15:45:32.096817"
+    }
+  },
+  "agent_order": [
+    "research",
+    "strategy",
+    "content",
+    "brand_alignment",
+    "analysis",
+    "final_output"
+  ]
+}

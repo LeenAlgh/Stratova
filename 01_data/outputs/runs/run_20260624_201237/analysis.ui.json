@@ -1,0 +1,67 @@
+{
+  "run_id": "run_20260624_201237",
+  "agent": "analysis",
+  "status": "completed",
+  "generated_at": "2026-06-24T20:19:17.002921",
+  "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_201237\\analysis.ui.json",
+  "summary": "# GTM Campaign Analysis Report ## 1. Performance Summary The campaign achieved a total of 150,000 impressions and reached 120,000 unique users. It generated 3,800 clicks, resulting in a total engagement of 7,500 interactions. The campaign successfully acquired 450 leads and converted 90 of them into customers, with a total cost of $2,500 and revenue of $8,500. ## 2. CTR Analysis The Click-Through Rate (CTR) for the campaign is 2.53%, indicating that a moderate percentage of users who viewed the ads clicked on them. This suggests that the ad content was somewhat effective in capturing user interest. ## 3. Engagement Analysis The overall engagement rate for the campaign is 5.0%. With 7,500 tot...",
+  "sections": [
+    {
+      "title": "1. Performance Summary",
+      "body": "The campaign achieved a total of 150,000 impressions and reached 120,000 unique users. It generated 3,800 clicks, resulting in a total engagement of 7,500 interactions. The campaign successfully acquired 450 leads and converted 90 of them into customers, with a total cost of $2,500 and revenue of $8,500."
+    },
+    {
+      "title": "2. CTR Analysis",
+      "body": "The Click-Through Rate (CTR) for the campaign is 2.53%, indicating that a moderate percentage of users who viewed the ads clicked on them. This suggests that the ad content was somewhat effective in capturing user interest."
+    },
+    {
+      "title": "3. Engagement Analysis",
+      "body": "The overall engagement rate for the campaign is 5.0%. With 7,500 total engagements, this reflects a healthy level of interaction with the campaign content, suggesting that users found the material relevant and engaging."
+    },
+    {
+      "title": "4. Lead Analysis",
+      "body": "The campaign generated 450 leads, resulting in a lead conversion rate of 11.84%. This indicates that a significant portion of engaged users were interested enough to provide their information, showcasing effective lead generation strategies."
+    },
+    {
+      "title": "5. Conversion Analysis",
+      "body": "The total conversion rate for the campaign stands at 20.0%, with 90 conversions from the 450 leads generated. This demonstrates a strong ability to convert leads into paying customers, indicating effective sales processes and follow-up strategies."
+    },
+    {
+      "title": "6. ROI Analysis",
+      "body": "The campaign achieved a return on investment (ROI) of 240.0%. With total revenue of $8,500 against a total cost of $2,500, the campaign has proven to be highly profitable, yielding substantial returns relative to the investment made."
+    },
+    {
+      "title": "7. Strengths",
+      "body": "- High ROI of 240.0% indicates effective budget utilization.\n- Strong conversion rate of 20.0% demonstrates effective lead nurturing.\n- Good engagement rate of 5.0% suggests that the content resonated well with the audience."
+    },
+    {
+      "title": "8. Weaknesses",
+      "body": "- The CTR of 2.53% could be improved to drive more traffic to the campaign.\n- The lead conversion rate of 11.84% indicates room for improvement in converting leads to customers."
+    },
+    {
+      "title": "9. Key Insights",
+      "body": "The campaign has successfully generated significant revenue and engagement while maintaining a strong ROI. However, enhancing the CTR and lead conversion strategies could further optimize performance. Continued focus on refining ad content and follow-up processes may yield even better results in future campaigns."
+    }
+  ],
+  "metrics": {
+    "ctr_percent": null,
+    "conversion_rate_percent": null,
+    "roi_percent": null,
+    "leads": null,
+    "conversions": null
+  },
+  "guardrails": {
+    "status": "pass",
+    "score": 94,
+    "evaluated_agent": "analysis",
+    "violations": [
+      "Generated optimization recommendations in the 'Weaknesses' and 'Key Insights' sections."
+    ],
+    "recommendations": [
+      "Remove optimization suggestions from the weaknesses and key insights sections."
+    ],
+    "rationale": "The output provides a comprehensive analysis of the campaign performance, but it includes optimization recommendations, which are outside the agent's allowed responsibilities. This impacts the role compliance score."
+  },
+  "file_type": "ui_only",
+  "input_summary": "{\"campaign_dataset\": \"Campaign_Performance\", \"feedback_dataset\": \"Customer_Feedback\"}"
+}

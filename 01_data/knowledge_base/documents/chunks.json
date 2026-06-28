@@ -1,0 +1,1382 @@
+[
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 1,
+    "chunk_id": "p1_c0",
+    "content": "BeamData AI Introduction | 1 BeamData AI Introduction January 2026 Solving the Last Mile of AI Adoption"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 2,
+    "chunk_id": "p2_c0",
+    "content": "BeamData AI Introduction | 2 Building AI Conﬁdence Harnessing Customized Product & Solutions to Guide Your Journey Toward AI Success. ●About Beam ●AI Product ●AI Services ●Tech Capability"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 3,
+    "chunk_id": "p3_c0",
+    "content": "Introduction Beam Data is a North American-based Data & AI solutions company that provides full lifecycle data and AI services to clients across multiple industries. Whether you are an enterprise that needs help with data strategies or in need of project resources to build end-to-end AI and machine learning solutions, Beam Data will help you tackle the most critical enterprise business challenges so you can continue your business vision and mission. AI Solutions Beyond Strategy: Amplifying Value with the Right Expertise Corporate Clients 38 Full-time Consultants 35 (Canada) AI/Governance Advisors 12 Countries our clients in 6 (U.S., Canada, China, UAE, Saudi, Singapore) Oﬀshore Team Size 40 (China, Pakistan)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 4,
+    "chunk_id": "p4_c0",
+    "content": "Our Services AI Governance & AI Strategy Data & AI Strategy Deployment Operations Proof of Concepts AI Training, Knowledge Transfer, AI Project Support"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 5,
+    "chunk_id": "p5_c0",
+    "content": "Our Product AI Hub is an enterprise AI platform that can be deployed on-premise and in the cloud for chat, knowledge base, workﬂow automation, and agentic workﬂows. It’s vendor-agnostic and can be customized to work with your company’s SOPs. It’s currently in Beta. Click to play the youtube video"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 6,
+    "chunk_id": "p6_c0",
+    "content": "Our Clients E-COMMERCE FINTECH TELECOM CONSUMER ELECTRONICS TECH STARTUP SUPPLY CHAIN MEDIA & PUBLISHING INFO TECHNOLOGY We have been serving businesses across the world. Beam Data is dedicated to providing data strategies and implementation services that help our clients tackle their challenging problems"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 7,
+    "chunk_id": "p7_c0",
+    "content": "BeamData AI Introduction | 7 Building AI Conﬁdence Harnessing Customized Product & Solutions to Guide Your Journey Toward AI Success. ●About Beam ●AI Product ●AI Services ●Tech Capability"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 8,
+    "chunk_id": "p8_c0",
+    "content": "AI Projects Fail to Deliver Value Last Mile （Much longer than imagined） Proof of Concept AI Value Creation LLM/Agent Capability Infrastructure 95% of AI adoption fail. It is not because of technology, but because of the last mile. VS Data Model Adaptation Costs People Vertical-speciﬁc Workﬂows"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 9,
+    "chunk_id": "p9_c0",
+    "content": "Introducing our AI Hub Uniﬁes models, tools, and teams across the full AI lifecycle, converting prototypes into deployed solutions. Automates task responses and knowledge queries Centralizes data, documents, and project intelligence End-to-end business automation through visual agent orchestration Knowledge Hub Assistant Agentic Workﬂow"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 10,
+    "chunk_id": "p10_c0",
+    "content": "AI Hub Architecture: Platform Depth Assistant Knowledge Hub Agentic Workﬂow Data Hub Model Hub Agent Hub Infra Hub HubEDU HubMFG IT/Data/AI Business OpenAI, Gemini Deepseek, etc. Langgraph Haystack, etc. Databricks Snowﬂake, etc. A uniﬁed stack from infrastructure to workﬂow automation."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 11,
+    "chunk_id": "p11_c0",
+    "content": "Our Technology: Technical Defensibility Agentic Workﬂow Platform n8n, dify, activepieces, etc. Vertical Workﬂow A Vertical Workﬂow B Vertical Workﬂow C Framework-Agnostic Agent Tools (RAG, Knowledge Graph, Agent Framework) RAG Tools LangChain, LlamaIndex, etc. Agent Tools Agent Frameworks AI Data Hub (Pipeline, Cleaning, Index, Augment, Label) Data Management & Governance SQL, Spark, Python, Data Warehouse, Data Lake AI Models (ML, LLM) DeepSeek, OpenAI, Gemini, Qwen, etc. AI Model Hub (Deploy, Forecast, Finetune, Integration) Cross-platform AI Infrastructure (GPU, Distributed Systems) Cloud/AI Infrastructure Private Cloud, Public Cloud, On-Prem, Hybrid, etc. Application Agent Data & Model Infrastructure"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 12,
+    "chunk_id": "p12_c0",
+    "content": "Unique Features ● Flexible deployment options for diﬀerent clients ● Not locked into any frameworks, adaptive to technology trends Platform/Framework Agnostic Data Hub Model Hub & Integration Vertical Workﬂows built for business teams ● Data connectors hooked to diﬀerent Enterprise systems (SAP, Salesforce, MES, etc.) ● SQL Agents connected to database systems for self-serve BI ● Allows for deep integration with tech teams for model evaluation, ﬁne-tuning, and deployment ● Integration with existing ML platforms such as Sagemaker, Azure, etc. ● Built with end users (both business and IT) in mind, empowering business users to maximize AI adoption ● Prebuilt playbooks to get started with AI workﬂows quickly ● Deep vertical integration via FDE customization"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 13,
+    "chunk_id": "p13_c0",
+    "content": "BeamData AI Introduction | 13 Building AI Conﬁdence Harnessing Customized Product & Solutions to Guide Your Journey Toward AI Success. ●About Beam ●AI Product ●AI Services ●Tech Capability"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 14,
+    "chunk_id": "p14_c0",
+    "content": "Data & AI Strategy Governance Strategy Data & AI Strategy Deployment Operations Proof of Concepts We help you build data & AI strategies via ● AI literacy training ● Use case exploration ● Use case prioritization ● Data & AI system design ● Governance framework planning Our Services"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 15,
+    "chunk_id": "p15_c0",
+    "content": "Quick Prototyping & POC Our Services Governance Strategy Data & AI Strategy Deployment Operations Proof of Concepts We help build rapid prototypes and decide the most impactful ones to develop and deploy to production. ● Build fast to win fast ● Keep business in the design and prototype process ● Get faster feedback and lower the project risk"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 16,
+    "chunk_id": "p16_c0",
+    "content": "Solution Deployment Our Services Governance Strategy Data & AI Strategy Deployment Operations Proof of Concepts Cloud Platform (AWS, GCP, Azure) Data Platform Data Processing Layer AI Models & Product Product Integration AI Platform We can augment the existing team or take on end-to-end implementation to develop the solutions."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 17,
+    "chunk_id": "p17_c0",
+    "content": "Solution Operations Our Services Governance Strategy Data & AI Strategy Deployment Operations Proof of Concepts We help document the entire process and train both tech and business teams to be able to use and maintain the system. ● We can also support maintenance on a retainer basis. ● We help build the health check and monitoring system and support ongoing iterations."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 18,
+    "chunk_id": "p18_c0",
+    "content": "Governance Framework Our Services Governance Strategy Data & AI Strategy Deployment Operations Proof of Concepts As part of the AI strategizing, we help our clients design the governance framework that works best for them."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 19,
+    "chunk_id": "p19_c0",
+    "content": "Change Process Management Our Services Literacy Use Case POC Development Deployment Business (investment, ops, marketing, sales, etc.) Governance (IT, legal, AI, etc.) Data (IT, analytics, data infra, data engineering) AI (data science, AI, MLOps) Post-Deploy Train Train Train Train Regulatory Design Design Design Quality Policy Compliance UAT Training Build Security Infrastructure Monitor UAT Document Explain Monitor Health check Monitor ROI Monitor Health check Refine Requirements Metrics Feedback Risk Assessment Train Quality Health check Health check"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 20,
+    "chunk_id": "p20_c0",
+    "content": "Client Story Our Services Deployment Operations Governance Strategy Proof of Concepts Data & AI Strategy Financial Industry Customer ● Conversational assistant that helps employees of a ﬁnancial institution interact with internal documents and policies through a custom web application ● Identiﬁed use cases ● Prioritized use cases for POC ● Completed POC ● Converted the POC into a project, developed the solution and integrated with internal systems"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 21,
+    "chunk_id": "p21_c0",
+    "content": "Client Story Our Services Deployment Operations EDGEGROUP ● Delivered AI for leaders training to 200 leaders across organizations ● Identiﬁed 30+ AI use cases Proof of Concepts Data & AI Strategy Governance Strategy"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 22,
+    "chunk_id": "p22_c0",
+    "content": "Client Story Our Services Governance Strategy Data & AI Strategy Deployment Operations EY ● Ernst & Young engineering teams had challenges with onboarding and searching business documents ● Beam Data quickly prototyped and built a GenAI LLM RAG app that ingested 5000+ ﬁles and documents allowing rapid Q&A with an AI bot ● The POC continues to be tested and used by engineering teams and got use case interests from legal and accounting business units Proof of Concepts"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 23,
+    "chunk_id": "p23_c0",
+    "content": "Client Story Our Services Governance Strategy Data & AI Strategy Deployment Operations Proof of Concepts Globe and Mail ● POC GenAI chatbot ran into multiple performance and eﬃciency issues ● Pre-production chatbot app lacked scalable storage & database ● Beam Data quickly re-factored app frameworks to achieve optimized performance & eﬃciency ● Installed and deployed AI-native vector database for production ● The production GenAI chatbot is driving increased CX and engagement"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 24,
+    "chunk_id": "p24_c0",
+    "content": "BeamData AI Introduction | 24 Building AI Conﬁdence Harnessing Customized Product & Solutions to Guide Your Journey Toward AI Success. ●About Beam ●AI Product ●AI Services ●Tech Capability"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 25,
+    "chunk_id": "p25_c0",
+    "content": "Our Tech Capabilities Our Technology Partners On-Premise Kuberay Ray Slurm Haystac k Cloud (AWS, Azure, GCP) Openshift Kubernetes Train Tune Serve Inference WeBot/MetaBot Support Bot Content AI Resume AI Web apps RFP AI Data Prep Spark Python SQL Databricks, Sagemaker, Snowflake Feature Prep Data Augmentati on Data Annotation 3rd-party App AI Data Infra Data APIs Ontology Metadata APIs"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 26,
+    "chunk_id": "p26_c0",
+    "content": "Our Tech Capabilities Our Technology On-Premise Cloud (AWS, Azure, GCP) HR Train Data & AI Governance Tune Serve Clean Prep Augment Annotate L&D RFP Mktg AI Models Data Dash boards Data Recipes Data APIs Infrastructure (Platform-agnostic)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 27,
+    "chunk_id": "p27_c0",
+    "content": "Comprehensive Tooling Our Technology Data Engineering Model Engineering Software Engineering DevOps Data Labeling Data Lake/Warehouse Data Query Feature Store Data Governance/Quality Model Training/Evaluation Model Tunings Experiments Development Model Serving ML Infrastructure CI/CD Monitoring Model Testing Version Control Workflow Automation Unit Test Integration Test Model Test Registry Package Code Review Fiddler"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 28,
+    "chunk_id": "p28_c0",
+    "content": "BeamData AI Introduction | 28 Thank you! Email: shaohua@beamdata.ai Support us in building the ecosystem that makes AI adoption scalable. Solving the Last Mile of AI Adoption"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 29,
+    "chunk_id": "p29_c0",
+    "content": "RAG Chatbot"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 30,
+    "chunk_id": "p30_c0",
+    "content": "RAG Chatbot: “Streamlining User Interactions through Advanced AI Capabilities” Problem: RAG Chatbot: Company XYZ seeks to improve customer support by reducing response times and manual intervention in addressing queries from carriers and drivers. Solution: ● Integrated AI-Driven Response System: By utilizing the Langchain RAG (Retrieval-Augmented Generation) model within a Docker container, the chatbot leverages natural language processing to understand user queries and retrieve relevant information. ● Streamlined Interface with Streamlit: The use of Streamlit for the user interface simplifies interaction, enabling a seamless experience for users to input queries and receive responses. ● Docker containerization ensures that the chatbot application is consistent and stable across different deployment environments. Results: ● Enhanced User Experience: The chatbot significantly improves the way users interact with the Company XYZ platform by providing instant responses to their inquiries. ● Reduced Load on Customer Support: By automating responses to common questions, the chatbot has alleviated the"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 30,
+    "chunk_id": "p30_c1",
+    "content": "interact with the Company XYZ platform by providing instant responses to their inquiries. ● Reduced Load on Customer Support: By automating responses to common questions, the chatbot has alleviated the workload on human customer support teams. ● The chatbot offers 24/7 availability, ensuring users have consistent access to support regardless of the time of day."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 31,
+    "chunk_id": "p31_c0",
+    "content": "Driver Marketplace in the transportation industry"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 32,
+    "chunk_id": "p32_c0",
+    "content": "Driver Marketplace in the transportation industry Summary Slides Testimonial \"Working with the team at BeamData was an insightful and fulfilling experience. As CEO of Company XYZ. I had zero working knowledge in Artificial intelligence, machine learning, large language models and chatbots. Each member of their team excelled in their specific department and thoroughly delivered the information in everyday language I could retain, and share. Thank you to Communitech and the Ontario Vehicle Innovation Network (OVIN) for supporting our project.” Headings: Verification Pipeline: “Enhancing Driver Onboarding through Automated Document Verification.” Problem： Verification Pipeline: Company XYZ is addressing the inefficiencies and errors that often arise in the manual driver onboarding process, which slow down operations and prevent scalability. Solution: Verification Pipeline: ● Automated Document Verification with AWS Textract: An automated document verification pipeline was created using AWS Textract to accurately and efficiently extract and interpret data from essential documents such as driver's"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 32,
+    "chunk_id": "p32_c1",
+    "content": "Automated Document Verification with AWS Textract: An automated document verification pipeline was created using AWS Textract to accurately and efficiently extract and interpret data from essential documents such as driver's licenses and CVOR certificates. ● Scalable Cloud-Based Architecture: The system's design utilizes a robust cloud architecture, including services like AWS S3 for document storage, AWS Lambda for processing, and AWS EventBridge for scheduling tasks. ● Continuous Monitoring and Error Handling: A comprehensive monitoring and error handling framework was established. This includes automated alerts for any operational issues and a detailed troubleshooting guide to quickly address and resolve any problems, ensuring the verification process remains streamlined and effective. Results:"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 33,
+    "chunk_id": "p33_c0",
+    "content": "Verification Pipeline: ● Increased Operational Efficiency: The automated verification pipeline has significantly streamlined the process of onboarding drivers by reducing the time and labor required to manually verify documents while enabling a faster turnaround for driver applications ● Enhanced Accuracy and Compliance: By leveraging advanced technologies such as AWS Textract for data extraction, the system has improved the accuracy of document verification. ● The cloud-based nature of the system and its efficient design have allowed Company XYZ to handle a larger volume of applications without additional strain on resources."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 34,
+    "chunk_id": "p34_c0",
+    "content": "AI Exploration in Healthcare"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 35,
+    "chunk_id": "p35_c0",
+    "content": "Headings: “AI Exploration in Healthcare - Uncovering Comprehensive Data Insights by AI” Problem： The client is seeking an optimizing AI strategy on their data analysis and hardening the data infrastructure. Solution: ● Built a Health Score system that offers users a score for each postal code, indicating the accessibility of healthcare services in that area. ● Established web scraping pipeline, operating within the AWS ecosystem, plays a vital role in keeping the client’s website's information current and accurate. ● Built a Holiday Surge Optimization tool using a forecasting model, that predicts the availability of clinicians during holiday seasons Results: ● The unified strategy strengthens the client's presence in the healthcare domain. ● 85% accuracy of surge optimization; 4 other health provider resources in pipeline ● These approaches enhances their data-driven capabilities, elevates service quality, and fortifies their competitive advantage."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 35,
+    "chunk_id": "p35_c1",
+    "content": "provider resources in pipeline ● These approaches enhances their data-driven capabilities, elevates service quality, and fortifies their competitive advantage."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 36,
+    "chunk_id": "p36_c0",
+    "content": "Dynamic Pricing"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 37,
+    "chunk_id": "p37_c0",
+    "content": "Maximizing Profitability and Engagement through Dynamic Pricing Problem: Dynamic Pricing Model: Company123’s static pricing model did not reflect fluctuations in market demand, leading to suboptimal pricing. During peak times, rates failed to capture true value, while off-peak periods saw prices that deterred potential users. Solution: Dynamic Pricing Model: ● Real-Time Price Adjustments: Using real-time data and historical demand trends, a dynamic pricing algorithm was implemented to adjust vehicle rental rates automatically. ● AWS-Driven Architecture: The solution leveraged AWS S3 for data storage, AWS Lambda for demand analysis, and AWS SageMaker for training machine learning models to predict optimal pricing. ● Continuous Price Monitoring: Regular monitoring and adjustments were implemented to keep rental prices aligned with demand and market conditions Results: Dynamic Pricing Model: ● Revenue Optimization: The dynamic pricing algorithm allowed vehicle owners to maximize their earnings by responding to market demand in real-time. ● AWS SageMaker Deployment: The model"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 37,
+    "chunk_id": "p37_c1",
+    "content": "Dynamic Pricing Model: ● Revenue Optimization: The dynamic pricing algorithm allowed vehicle owners to maximize their earnings by responding to market demand in real-time. ● AWS SageMaker Deployment: The model was successfully deployed on AWS SageMaker, enabling continuous learning and improvement as new market data is collected. ● Improved User Engagement: With dynamic, market-reflective pricing, renters are now able to receive more competitive offers, leading to increased bookings and higher user satisfaction. The system’s responsiveness to market changes will also enhance user trust and engagement on the platform."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 38,
+    "chunk_id": "p38_c0",
+    "content": "Optimizing Battery Performance"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 39,
+    "chunk_id": "p39_c0",
+    "content": "Headings: Optimizing Battery Performance: \"Leveraging Data-Driven Techniques to Improve Temperature Control and Efficiency in Modular Battery Systems.\" Problem: Battery Temperature Optimization: Company234 faced the challenge of optimizing battery performance across a variety of applications, such as home energy systems, drones, and electric vehicles. The primary issue was managing battery temperature under different operating conditions to ensure efficiency, longevity, and safety. The construction delay of the physical battery system further compounded the problem, requiring an adaptive shift towards theoretical simulations. Solution: Battery Temperature Optimization: ● Advanced Data-Driven Simulation and Optimization: A suite of optimization techniques, including Monte Carlo simulations, Sobol sequences, dynamic programming, genetic algorithms, and simulated annealing, were employed to predict and optimize battery performance. These methods regulated battery temperature by analyzing key parameters such as voltage, amperage, and cooling system attributes. ● Ensemble Method for Prediction: Multiple optimization algorithms were integrated to create a comprehensive theoretical model that predicts"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 39,
+    "chunk_id": "p39_c1",
+    "content": "by analyzing key parameters such as voltage, amperage, and cooling system attributes. ● Ensemble Method for Prediction: Multiple optimization algorithms were integrated to create a comprehensive theoretical model that predicts battery behavior and temperature under various conditions. This ensemble method provided insights into the influence of different factors on battery temperature regulation. ● Knowledge Repository and Automated Workflow: A detailed knowledge repository was compiled, including Python scripts, research materials, and documentation. Additionally, an automated workflow was established to streamline data analysis, model training, and result interpretation, ensuring efficient future battery development phases. Results: Battery Temperature Optimization: ● Successful Theoretical Modeling: Despite the delay in battery construction, simulations provided a robust understanding of temperature behavior under various conditions, validated through theoretical models that aligned with client specifications. ● Optimized Codebase for Future Use: The development of highly scalable and accessible code ensures that the research can be extended, serving as a"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 39,
+    "chunk_id": "p39_c2",
+    "content": "models that aligned with client specifications. ● Optimized Codebase for Future Use: The development of highly scalable and accessible code ensures that the research can be extended, serving as a valuable resource for both technical and non-technical team members."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 40,
+    "chunk_id": "p40_c0",
+    "content": "● Foundation for Future Empirical Testing: The simulations have laid a solid theoretical foundation that will allow for quick adaptation when the physical battery becomes available, reducing the time required for empirical testing."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 41,
+    "chunk_id": "p41_c0",
+    "content": "Marketing Attribution Modeling"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 42,
+    "chunk_id": "p42_c0",
+    "content": "Headings: Marketing Attribution Modeling: \"Automating and Enhancing Multi-Channel Attribution for Optimized Customer Journey Insights.\" Problem: Marketing Attribution Modeling: The Company456 team needed to run a Markov Chain Attribution Model (MAM) to analyze customer journeys, predict conversions by channel, and estimate the effects of channel removal for various types of conversions (registration, subscription, return visits). The original model was manual, required separate runs for each type of conversion, and produced outputs in Excel and parquet files. The Company456 team requested updates to: 1. Run the model with an extended list of channels. 2. Change the output format to upload results to the Snowflake database for further visualization. 3. Automate the process to run monthly with all conversion and historical period combinations. Solution: Marketing Attribution Modeling: ● Extended List of Channels: An updated script was developed to run the MAM for both the original and extended list of channels. The extended list"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 42,
+    "chunk_id": "p42_c1",
+    "content": "Solution: Marketing Attribution Modeling: ● Extended List of Channels: An updated script was developed to run the MAM for both the original and extended list of channels. The extended list included detailed breakdowns for channels like email, paid search, paid Facebook, and internal content. SQL queries were created to extract data for user interactions from Snowflake, and customer journeys were built for each conversion type. ● Automated MAM Execution: Four separate notebooks were created to handle different combinations of conversion types and historical data ranges, ensuring that MAM could run for both registration/subscription and return visits across multiple channels. These notebooks were set up to run monthly using an EC2 server. ● Output Format Update and Integration: The MAM predictions were formatted for direct upload into Snowflake (SOPHI Database) for both the original and extended list of channels. A system service was created to automate the EC2 start/stop processes and"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 42,
+    "chunk_id": "p42_c2",
+    "content": "were formatted for direct upload into Snowflake (SOPHI Database) for both the original and extended list of channels. A system service was created to automate the EC2 start/stop processes and ensure that MAM outputs are uploaded to Snowflake after processing. Results: Marketing Attribution Modeling: ● Extended Attribution Modeling: The model successfully processed predictions for an extended list of marketing channels, adding granularity and improving attribution insights across a wider range of touchpoints."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 43,
+    "chunk_id": "p43_c0",
+    "content": "● Automated Monthly Process: The entire process was automated to run every month, ensuring all combinations of conversion types and historical periods are processed efficiently, with results uploaded to Snowflake for further analysis. ● Improved Data Flow: MAM results were uploaded directly into Snowflake, reducing manual data handling and allowing Company456’s analytics team to build visualizations in Tableau easily."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 44,
+    "chunk_id": "p44_c0",
+    "content": "Recommender System"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 45,
+    "chunk_id": "p45_c0",
+    "content": "Heading: Content-Based Recommender System: \"Optimizing Article Recommendations for Enhanced Reader Engagement\" Problem: Content-Based Recommender System: A content-based article recommendation system was needed to suggest similar articles to users based on their reading behavior to increase reader engagement. The system had to process article data, user interactions, and ensure the recommendations were timely and relevant, with special attention to content recency and time decay of article relevance. Solution: A model was developed using TF-IDF to vectorize article features and generate recommendations based on cosine similarity. The system integrates real-time user interaction data and applies a time-decay factor to prioritize recent content, running every 3-4 hours for updated recommendations. Results: Content-Based Recommender System: ● Improved Relevancy of Recommendations: The model applied time-decay to ensure users received more relevant, up-to-date recommendations. ● Automated Refresh of Recommendations: The recommendation system automatically updated every 3-4 hours, keeping the content fresh for users. ● Enhanced Performance"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 45,
+    "chunk_id": "p45_c1",
+    "content": "to ensure users received more relevant, up-to-date recommendations. ● Automated Refresh of Recommendations: The recommendation system automatically updated every 3-4 hours, keeping the content fresh for users. ● Enhanced Performance Through A/B Testing: The system’s effectiveness was evaluated through A/B testing, with a focus on improving click-through rates (CTR) compared to the previous model."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 46,
+    "chunk_id": "p46_c0",
+    "content": "Loan Approval Automation"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 47,
+    "chunk_id": "p47_c0",
+    "content": "Heading: Company XYZ Loan Approval Automation: \"Building a Machine Learning Solution for Automated Loan Screening\" Problem: A sub-prime loan company sought to automate its pre-screening process for loan applications to save underwriters' time. They also required a rule-based model to allow flexibility in adjusting loan approval policies. Solution: A machine learning model using a RandomForestClassifier was developed for pre-screening loan applications, along with extensive feature engineering based on customer transaction data. A rule-based model was proposed for future customization. Results: ● Automated Pre-Screening: A baseline model was created to automate loan screening, reducing manual effort for underwriters. ● Feature Engineering: 20+ features were developed to capture key customer traits, improving model accuracy. ● Future Scope: Further tuning, rule-based model creation, and deployment are planned."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 47,
+    "chunk_id": "p47_c1",
+    "content": "and deployment are planned."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 48,
+    "chunk_id": "p48_c0",
+    "content": "Fantasy Baseball Player Projection Tool"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 49,
+    "chunk_id": "p49_c0",
+    "content": "Heading: Leveraging Advanced MLB Data for Accurate Player Projections - Fantasy Baseball Player Projection Tool Problem: Current MLB player projection tools (ZiPS, Steamer, PECOTA) focus on results-oriented inputs. The goal was to create a model using advanced datasets (Statcast, Fangraphs, Baseball Prospectus) to improve player performance projections for fantasy sports and team-building, accounting for key features like ground ball rate, defensive metrics, and player comparables. Solution: A machine learning model was developed to project player performance across percentiles (100th, 75th, 50th, 25th) using historical data and advanced baseball metrics. The model was backtested against existing projection systems for accuracy, with daily automation of data collection. Results: ● Player Projections: Delivered 2023 player projections across percentile bands for use in fantasy sports and team management. ● Player Cards: Created dynamic \"player cards\" with updated data from multiple sources, including Statcast and Fangraphs, displaying key projections. ● Team-Level Projections: Provided team projections"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 49,
+    "chunk_id": "p49_c1",
+    "content": "sports and team management. ● Player Cards: Created dynamic \"player cards\" with updated data from multiple sources, including Statcast and Fangraphs, displaying key projections. ● Team-Level Projections: Provided team projections based on player performance inputs."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 50,
+    "chunk_id": "p50_c0",
+    "content": "High-Risk Candidate Screening"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 51,
+    "chunk_id": "p51_c0",
+    "content": "Heading: Enhancing Screening Methods for Property Management and HR with Rule-Based and ML Models - TrustABC High-Risk Candidate Screening Problem: The client needed to improve its screening process for identifying high-risk candidates, focusing on financial risk and criminal behavior, to support property managers and HR professionals in making informed decisions. Solution: The project involved evaluating and refining the client's existing feature list using personal banking data. New features related to financial risk were created, and two proof-of-concept models—one rule-based and one machine learning—were developed for predicting high-risk candidates. Results: ● Feature Engineering: Developed new features (e.g., addiction, fraud, income, spending) using client data. ● Screening Process Improvement: Significantly enhanced the screening process through rule-based algorithms and machine learning models. ● Data Visualization: Used data visualization tools to communicate insights and improvements to stakeholders."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 51,
+    "chunk_id": "p51_c1",
+    "content": "Data Visualization: Used data visualization tools to communicate insights and improvements to stakeholders."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 52,
+    "chunk_id": "p52_c0",
+    "content": "Autonomous Vehicle Safety"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 53,
+    "chunk_id": "p53_c0",
+    "content": "XYZ Robotics - Autonomous Vehicle Safety Problem: The client needed deeper insights into accidents involving human-driven and autonomous vehicles to enhance safety research. They aimed to develop predictive models to assess accident frequency and severity, improving their vehicle safety solutions. Solution: ● Data Selection and Preparation: Selected four key datasets (CRSS, FARS, and autonomous vehicle data) and performed extensive data cleaning, normalization, and preprocessing to ensure consistency. ● Interactive Data Visualization: Built a Streamlit app for exploring accident data, including EDA, accident normalization, and real-time risk dashboards for easy data interaction. ● Machine Learning Models: Developed three predictive models using different datasets to assess accident severity and frequency for human-driven and autonomous vehicles. ● Correlation Analysis: Conducted correlation analysis to guide feature selection for models, uncovering patterns between accident factors and severity. ● Documentation and Packaging: Delivered comprehensive documentation on models and app usage, allowing easy retraining and adaptation for"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 53,
+    "chunk_id": "p53_c1",
+    "content": "guide feature selection for models, uncovering patterns between accident factors and severity. ● Documentation and Packaging: Delivered comprehensive documentation on models and app usage, allowing easy retraining and adaptation for future data. Results: ● Accident Risk Predictions: Provided tools to assess accident risks based on environmental and vehicle conditions, improving predictive accuracy. ● Streamlit App: Enabled real-time insights for non-technical users to explore trends and make informed decisions. ● Future-Ready Solution: Designed models and pipelines for ongoing retraining as more autonomous vehicle data becomes available. ● Comprehensive Documentation: Ensured long-term usability with detailed documentation, enabling them to adapt models as needed."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 54,
+    "chunk_id": "p54_c0",
+    "content": "AI-Driven Decarbonization"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 55,
+    "chunk_id": "p55_c0",
+    "content": "Company 567: AI-Driven Decarbonization “AI-Driven Decarbonization - Optimizing Carbon Reduction Plans with Advanced Clustering Models” Problem: The client sought to optimize their decarbonization planning process by segmenting buildings into clusters based on physical characteristics. This would allow them to better target carbon reduction strategies, automate processes, and handle complex building data at scale. Solution: ● Clustering Model: Developed an advanced clustering model using K-Prototypes to segment buildings based on features like height, perimeter, and area. This allows for better targeting of carbon reduction plans. The clustering model was refined to focus on regional specifics, with 15 clusters generated for British Columbia (BC). ● Data Integration: Integrated HubSpot and QuickBooks data into their data warehouse to create a single source of truth for customer information. Automated data pulls were built using Google Cloud Functions. ● Similarity Scoring System: A similarity scoring system was developed to calculate cosine similarity and Euclidean distance"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 55,
+    "chunk_id": "p55_c1",
+    "content": "truth for customer information. Automated data pulls were built using Google Cloud Functions. ● Similarity Scoring System: A similarity scoring system was developed to calculate cosine similarity and Euclidean distance between buildings, helping them group buildings with similar decarbonization needs. ● Automated Pipelines: Pipelines were built using BigQuery and Google Cloud Scheduler to ensure real-time updates and transformation of building data. Results: ● Optimized Carbon Reduction Plans: By clustering buildings into distinct groups, the customer can now generate more targeted and efficient decarbonization plans, improving overall operational efficiency. ● Improved Data Consistency: Integrated pipelines ensure that building data is always up to date, while the event-driven system improves data flow between key modules. ● Enhanced Predictive Analysis: The similarity scoring system significantly improves the precision of carbon reduction strategies by grouping buildings with similar characteristics."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 55,
+    "chunk_id": "p55_c2",
+    "content": "system significantly improves the precision of carbon reduction strategies by grouping buildings with similar characteristics."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 56,
+    "chunk_id": "p56_c0",
+    "content": "Smartphone Upgrade Insights"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 57,
+    "chunk_id": "p57_c0",
+    "content": "Headings: “Smartphone Upgrade Insights – Harnessing Data to Drive Customer Engagement” Problem: The client aimed to enhance their marketing campaigns by targeting current customers likely to upgrade their smartphones within six months of the launch date. This required a deep understanding of: ● Previous upgrading behavior ● Demographic characteristics ● Brand loyalty and engagement Solution: ● Predictive Success: ○ Effectively identified customers likely to upgrade using machine learning models. ○ Engaged potential upgrade customers through targeted marketing campaigns. ● Strategic Promotions: ○ Staggered targeted promotions effectively increased engagement, focusing on: ■ Note-series users in the first 90 days post-launch. ■ S-series users during key promotional periods such as Black Friday. ● Demographic and Geographic Targeting: ○ Successfully targeted Generation Y (ages 30-40), leading to increased campaign connectivity. ○ Focused efforts on major cities and key FSAs, maximizing resource efficiency and market reach. ● Qualitative Improvements: ○ Enhanced customer satisfaction by"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 57,
+    "chunk_id": "p57_c1",
+    "content": "(ages 30-40), leading to increased campaign connectivity. ○ Focused efforts on major cities and key FSAs, maximizing resource efficiency and market reach. ● Qualitative Improvements: ○ Enhanced customer satisfaction by delivering personalized and timely marketing. ○ Strengthened client brand loyalty through strategic engagement strategies. ○ Improved marketing precision, reducing wasted efforts and optimizing resource allocation. Tech Stack (logo or Text) ● Modeling: ○ Python ○ Scikit-learn ○ Keras ● Data Analytics: ○ Tableau 2020 ○ Microsoft SQL ○ Python ○ Pandas ○ Matplotlib ○ Plotly"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 58,
+    "chunk_id": "p58_c0",
+    "content": "○ Seaborn"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 59,
+    "chunk_id": "p59_c0",
+    "content": "Promotion Prediction Analysis"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 60,
+    "chunk_id": "p60_c0",
+    "content": "Promotion Prediction Analysis Heading AI-Driven Promotion Strategy Enhancement - Maximizing Sales Through Precision Pricing Problem: The client needed to enhance the effectiveness of their promotional strategies and optimize the pricing of products throughout their lifecycle to maximize sales. Solution: Developed a comprehensive analytics framework that leverages historical sales and promotion data to recommend the most effective promotional pricing for products at various stages of their lifecycle. ● Data Integration and Management: ○ Utilized historical sales data including SKU details (Model, Storage, Color), carrier, and daily sales quantities. ○ Integrated promotion data covering SKU specifics, promotion type, price, and duration. ● Advanced Feature Engineering: ○ Created a seasonal index and a Black Friday flag to account for seasonal variations in sales. ○ Developed metrics for product lifecycle stages and calculated the average daily sales from the previous two days to use as predictors in modeling. ● Predictive Modeling and Machine Learning:"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 60,
+    "chunk_id": "p60_c1",
+    "content": "○ Developed metrics for product lifecycle stages and calculated the average daily sales from the previous two days to use as predictors in modeling. ● Predictive Modeling and Machine Learning: ○ Employed Linear Regression, Random Forest, and ultimately selected XGBoost for its effectiveness in handling diverse datasets and complex nonlinear relationships. ○ Automated the entire predictive process from data collection in SQL Server to daily sales forecasting using a custom Python script. ● Strategic Promotion Optimization Tools: ○ De-seasonalized sales data and conducted time series analysis to identify and predict sales trends for products at different lifecycle stages. ○ Analyzed historical promotion effectiveness to determine the impact of various features on sales, such as promotion range, type, and duration. ○ Developed an automated sell-out simulation tool in Python that interfaces with SQL Server to gather data, build models, and generate sales predictions. Results: This strategic approach to promotional pricing and"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 60,
+    "chunk_id": "p60_c2",
+    "content": "Developed an automated sell-out simulation tool in Python that interfaces with SQL Server to gather data, build models, and generate sales predictions. Results: This strategic approach to promotional pricing and sales forecasting has significantly enhanced the client's marketing capabilities:"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 61,
+    "chunk_id": "p61_c0",
+    "content": "● Enhanced Decision-Making: ○ Provided the marketing team with data-driven insights to tailor promotional strategies effectively, focusing on optimal promotion range, type, and duration. ● Increased Sales Effectiveness: ○ Enabled precise targeting of promotional efforts that align with consumer buying patterns and product demand cycles, leading to maximized sales performance. ● Operational Efficiency: ○ The automation of data collection and analysis processes has streamlined operations, reducing time-to-insight for strategic decision-making and allowing for real-time adjustments to promotional strategies. This tailored AI-driven solution not only strengthens the client's competitive edge in the market but also ensures that they remain at the forefront of data-driven marketing innovation. Tools used: ● SQL Server ● Python ● XGBoost ● Pandas ● NumPy ● Matplotlib ● Jupyter Notebooks"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 61,
+    "chunk_id": "p61_c1",
+    "content": "● Jupyter Notebooks"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 62,
+    "chunk_id": "p62_c0",
+    "content": "Customer Segmentation"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 63,
+    "chunk_id": "p63_c0",
+    "content": "Customer Segmentation Heading: “Discover the Future of Customer Engagement – Optimizing Smartphone Upgrades with Data Intelligence” Problem: In a competitive market, identifying and engaging customers ready to upgrade their smartphones is crucial. The goal was to boost marketing effectiveness by anticipating upgrade behaviors and refining customer-targeting strategies based on: ● Historical upgrade patterns ● Demographics ● Brand loyalty Solution: We harness the power of data analytics and machine learning to revolutionize how our clients engage with their customers. ● Predictive Modeling: ○ Developed models to identify potential smartphone upgrade candidates based on key features. ○ Implemented targeted marketing campaigns to engage predicted customers effectively. ● Tactical Promotions: ○ Staggered strategies, focusing on the first and subsequent 90 days post-launch. ○ Targeted Note-series users initially, shifting to S-series during major sales events. ● Targeted Outreach: ○ Demographic targeting centered on Gen Y (ages 30-40). ○ Geographic focus on major urban centers"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 63,
+    "chunk_id": "p63_c1",
+    "content": "Targeted Note-series users initially, shifting to S-series during major sales events. ● Targeted Outreach: ○ Demographic targeting centered on Gen Y (ages 30-40). ○ Geographic focus on major urban centers and key contributing FSAs in each province. Results: ● Enhanced Predictive Success: ○ Models accurately identified customers primed for upgrades. ○ Strengthened engagement with personalized marketing, boosting customer satisfaction. ● Strategic Promotion Impact: ○ Improved communication efficiency by reaching high-potential audiences. ○ Optimized promotional timing increased campaign connectivity and response rates. ● Qualitative Gains: ○ Elevated client brand loyalty through targeted, timely interactions. ○ Maximized marketing ROI through efficient resource allocation and data-driven decision-making."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 64,
+    "chunk_id": "p64_c0",
+    "content": "Teck Stack ● Python, Scikit-learn, Keras ● Tableau, Microsoft SQL ● Python libraries (Pandas, Numpy, Matplotlib, Plotly, Seaborn)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 65,
+    "chunk_id": "p65_c0",
+    "content": "Revolutionizing Real Estate Suggestions"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 66,
+    "chunk_id": "p66_c0",
+    "content": "Heading: Revolutionizing Real Estate Suggestions – Beam Data’s Tailored Solutions for Company357 Problem: The client needed an advanced recommendation engine to enhance user engagement by: ● Sending personalized emails with similar property listings. ● Identifying listings that align with user browsing habits. ● Expanding recommendations to include new listings and similar neighborhoods. Solution: Beam Data developed a robust recommendation engine, leveraging: ● Data Preparation and Cleaning: ○ Analyzed user activity and listing data to understand structure and correlations. ○ Standardized and encoded data for machine learning applications using pd.getdummies. ● Similarity Analysis: ○ Applied Cosine Similarity for continuous variables. ○ Used Jaccard Similarity for categorical variables. ● Recommendation Systems: ○ Incorporated user browsing history and listing data to suggest relevant properties. ○ Created frameworks to integrate similar listings and expanded neighborhood options. Tech Tools: ● Python libraries: Pandas, Numpy, Scikit-learn ● Machine Learning: Cosine, Jaccard Results: Successfully identified optimal similarity"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 66,
+    "chunk_id": "p66_c1",
+    "content": "properties. ○ Created frameworks to integrate similar listings and expanded neighborhood options. Tech Tools: ● Python libraries: Pandas, Numpy, Scikit-learn ● Machine Learning: Cosine, Jaccard Results: Successfully identified optimal similarity algorithms to enhance recommendation precision. Developed methods to efficiently encode and use categorical data in machine learning models. Prepared the groundwork for seamless integration and scaling with real data."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 67,
+    "chunk_id": "p67_c0",
+    "content": "Enhancing Predictive Maintenance"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 68,
+    "chunk_id": "p68_c0",
+    "content": "Company 369 Enhancing Predictive Maintenance: Engine Failure Prediction Project Problem: The client needs to predict the remaining operating hours until the next engine breakdown and identify engines at high risk of failure to optimize maintenance schedules and reduce downtime. Method: The project utilizes historical data from 3,137 machines across 36 product families and 141 engine models, incorporating 67 initial features. Data integration involved merging training data with PSR (Product Support Reports) data, focusing on engine-specific columns and historical records. Solution: ● Predictive Analysis: The model prioritizes 240 engines likely to fail within 500-1000 operating hours, with a classification accuracy of 92% for high-risk failures. ● Maintenance Optimization: Engines identified for potential failures are prioritized for inspections, allowing for efficient budget use and enhanced service offerings. ● Rebuild Recommendations: Identified engines with frequent failures for potential rebuilds, offering cost savings to customers. Tech Tools: Python (Scikit-Learn, Pandas & NumPy, LIME, KNN"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 68,
+    "chunk_id": "p68_c1",
+    "content": "use and enhanced service offerings. ● Rebuild Recommendations: Identified engines with frequent failures for potential rebuilds, offering cost savings to customers. Tech Tools: Python (Scikit-Learn, Pandas & NumPy, LIME, KNN Imputation)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 69,
+    "chunk_id": "p69_c0",
+    "content": "Time Series Forecasting"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 70,
+    "chunk_id": "p70_c0",
+    "content": "Time Series Forecasting for Predictive Maintenance Objective: The client, a leader in AI/ML predictive maintenance, tasked BeamData with analyzing over 100 million miles of vehicle sensor data to identify correlations between maintenance events and vehicle fuel economy. The goal is to leverage time series forecasting to optimize maintenance plans, reduce costs, and improve fuel economy predictions for their customers. Solution: ● Data Consolidation and Visualization: ○ Data Prototyping: Created prototypes to visualize timestamped GPS coordinates across the USA and Canada, offering insights into vehicle performance over time. ○ Insightful Visualizations: Developed visualizations to highlight trends and anomalies in the provided sensor data, supporting maintenance decision-making. ○ ETL Pipeline: Built an ETL pipeline capable of processing the 1TB multi-variate time-series dataset, preparing it for downstream analysis and modeling. ● Predictive Analytics: ○ Time Series Forecasting Research: Researched and applied time series algorithms to predict wind speed and direction at specific GPS"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 70,
+    "chunk_id": "p70_c1",
+    "content": "preparing it for downstream analysis and modeling. ● Predictive Analytics: ○ Time Series Forecasting Research: Researched and applied time series algorithms to predict wind speed and direction at specific GPS coordinates and times. ○ Wind Prediction Model: Developed a model to forecast wind conditions, feeding this data into client’s fuel economy model to improve predictions related to deferred maintenance. ○ Integration with Fuel Economy Models: The output of the wind model was used by the client to enhance their fuel cost predictions, aiding in more accurate maintenance scheduling and cost management. Challenges: ● Handled irregularly sampled and sparse data efficiently by employing advanced data processing techniques. Results: ● Delivered a predictive maintenance solution that provided accurate wind condition forecasts, enabling better fuel economy predictions. ● Empowered the customer to optimize maintenance schedules and reduce costs for trucking fleets, aligning with their focus on R&D in zero-emission vehicles and advanced AI-based"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 70,
+    "chunk_id": "p70_c2",
+    "content": "better fuel economy predictions. ● Empowered the customer to optimize maintenance schedules and reduce costs for trucking fleets, aligning with their focus on R&D in zero-emission vehicles and advanced AI-based maintenance strategies. Tech Tools: AWS Python"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 71,
+    "chunk_id": "p71_c0",
+    "content": "Scikit learning"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 72,
+    "chunk_id": "p72_c0",
+    "content": "Forecasting for Distribution Requirements Planning"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 73,
+    "chunk_id": "p73_c0",
+    "content": "Heading Enhancing Forecast Accuracy - Distribution Requirements Planning (DRP) Problem: The client aimed to improve forecast accuracy and reduce data variability. Challenges included: ● Over 20% negative quantity shifts in forecasts due to manual errors. ● Need to address seasonal data trends and anomalies. Solution: ● BeamData implemented a comprehensive strategy to address these challenges, focusing on advanced data processing to streamline operations and improve decision-making. Automated ETL processes using SQL Server and PowerBI enabled efficient reporting, making data more accessible for regular analysis. Additionally, the team applied neural network models combined with KNN for demand forecasting, enhancing accuracy in predicting future needs. ● The strategy also involved sophisticated analysis techniques to provide deeper insights. Exploratory Data Analysis (EDA) was enriched with LIME, offering a detailed breakdown of data patterns and relationships. To visualize data flows effectively, Sankey diagrams were used, allowing stakeholders to see the movement and distribution of"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 73,
+    "chunk_id": "p73_c1",
+    "content": "enriched with LIME, offering a detailed breakdown of data patterns and relationships. To visualize data flows effectively, Sankey diagrams were used, allowing stakeholders to see the movement and distribution of resources or processes within the system. ● Data security and lifecycle management were key priorities, ensuring that information remained protected and reliable. Security protocols were established to safeguard data integrity, preventing unauthorized access and data corruption. For forecasting with precision, BeamData utilized Decision Tree Regressor models, which allowed for more accurate predictions and supported strategic planning based on reliable data insights. Result: ● Significant reduction in data variability across deliveries. ● Exclusion of outdated and seasonal anomalies for cleaner data insights. ● Development of new forecasting methodologies to strengthen future resilience. Tech Tools: ● SQL Server ● PowerBI ● Python ○ KNN, GridSearch, LIME ● TensorFlow"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 73,
+    "chunk_id": "p73_c2",
+    "content": "resilience. Tech Tools: ● SQL Server ● PowerBI ● Python ○ KNN, GridSearch, LIME ● TensorFlow"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 74,
+    "chunk_id": "p74_c0",
+    "content": "Fleet Distribution"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 75,
+    "chunk_id": "p75_c0",
+    "content": "Optimizing Fleet Distribution with Predictive Analytics for Company321 Headings Leveraging Data Science to Enhance Fleet Management Efficiency Problem: The client faced challenges in efficiently managing fleet distribution due to fluctuating demand across various geofences. The objective was to develop a predictive solution that could forecast daily fleet demand and availability, allowing for more strategic and data-driven decisions in fleet allocation. Solution: ● Designed and implemented predictive models using historical ride data to identify patterns in demand fluctuations and vehicle availability. ● These models were containerized with Docker, ensuring consistent environments across development and production. ● Deployed on Amazon Web Services using Elastic Container Registry (ECR) and Elastic Container Service (ECS) with AWS Fargate, providing serverless, auto-scaling capabilities that streamline operations and reduce manual intervention. Results: ● The predictive models achieved the desired accuracy, enabling the client to make informed fleet management decisions that align with demand patterns. ● By leveraging"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 75,
+    "chunk_id": "p75_c1",
+    "content": "and reduce manual intervention. Results: ● The predictive models achieved the desired accuracy, enabling the client to make informed fleet management decisions that align with demand patterns. ● By leveraging these insights, the client has significantly improved their ability to optimize fleet distribution and meet customer demand effectively."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 76,
+    "chunk_id": "p76_c0",
+    "content": "Optimized Keyword Advertising Bidding with ML"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 77,
+    "chunk_id": "p77_c0",
+    "content": "Optimized Keyword Advertising Bidding with ML Headings: Optimized Keyword Advertising Bidding with ML Problem： The project aims to predict the Cost Per Click (CPC) using web-scraped Amazon product data, which includes various keyword-related metrics. The primary goal is to identify the most cost-effective keywords that maximize advertising reach while minimizing costs, ultimately enhancing ROI for digital marketing efforts. Solution: ● Implementing LSTM to predict average CPC based on historical data, capturing temporal trends in keyword performance. ● Utilizing hybrid models to refine predictions daily to update CPC predictions, then merged into the operational dataset for real-time bidding optimization. Results: ● The hybrid model exhibits a 10% in Mean Absolute Error (MAE), and Mean Squared Error (MSE) ● The LSTM-enhanced models demonstrated their ability to capture and predict changes in CPC, helped with optimizing keywords bids in real-time, potentially increasing the efficiency of advertising budgets and enhancing overall campaign performance"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 77,
+    "chunk_id": "p77_c1",
+    "content": "demonstrated their ability to capture and predict changes in CPC, helped with optimizing keywords bids in real-time, potentially increasing the efficiency of advertising budgets and enhancing overall campaign performance"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 78,
+    "chunk_id": "p78_c0",
+    "content": "Multivariate Multi-step Sales Forecasting"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 79,
+    "chunk_id": "p79_c0",
+    "content": "Headings: Multivariate Multi-step Sales Forecasting with Deep Learning Ensemble Models Problem： The primary problem addressed was the development of a predictive model capable of accurately forecasting future sales for specific products across individual store locations. Solution: Utilizing point-of-sale (POS) data, the objective was to enhance decision-making by predicting sales trends 12 weeks ahead, enabling more informed inventory and marketing strategies to optimize sales performance and meet customer demand effectively. Results: ● Enhanced Forecasting Accuracy: The ensemble of deep learning models significantly improved the accuracy of 12-week sales forecasts for individual items and stores, demonstrating a robust capability to capture and predict complex sales patterns. ● Optimized Inventory Management: By providing accurate sales predictions, enabled more effective inventory management strategies, reducing overstock and stockouts, thereby improving operational efficiency and customer satisfaction. ● Scalable and Robust Model Performance: The final ensemble model proved to be more reliable and less prone to variance,"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 79,
+    "chunk_id": "p79_c1",
+    "content": "overstock and stockouts, thereby improving operational efficiency and customer satisfaction. ● Scalable and Robust Model Performance: The final ensemble model proved to be more reliable and less prone to variance, ensuring consistent performance across different scenarios and better handling of edge cases in sales data."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 80,
+    "chunk_id": "p80_c0",
+    "content": "Text Extraction and Semantic Search"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 81,
+    "chunk_id": "p81_c0",
+    "content": "Heading: Text Extraction and Semantic Search: \"Streamlining Text Intelligence and Semantic Similarity for Enhanced Document Processing\" Problem: Company543 required an advanced system to extract text and tables from a large document corpus (38 books), enable efficient semantic search, and support topic modeling and entity recognition for faster knowledge discovery and improved decision-making, all while handling large-scale data processing. Solution: A text extraction pipeline using Tesseract OCR and Cascade TabNet was developed to extract and analyze text and tables from PDFs, along with a Dash app for semantic search powered by Top2Vec and Scispacy for topic modeling and entity recognition. Additionally, a GPU-accelerated semantic similarity pipeline using Rapids enabled fast, scalable searches across the entire document corpus. Results: Text Extraction and Semantic Search: ● Efficient Text and Table Extraction: Successfully processed 38 books containing over 475,000 sentences/paragraphs and tables using Tesseract OCR, facilitating faster document parsing and table identification with Google"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 81,
+    "chunk_id": "p81_c1",
+    "content": "Semantic Search: ● Efficient Text and Table Extraction: Successfully processed 38 books containing over 475,000 sentences/paragraphs and tables using Tesseract OCR, facilitating faster document parsing and table identification with Google Cloud’s Document AI. ● Rapid Semantic Search: Implemented a GPU-accelerated semantic similarity pipeline, enabling semantic searches across the corpus with response times as fast as 85-100ms, significantly improving user experience in accessing relevant information. ● Comprehensive Topic Modeling and NER: Enabled topic-based organization and named entity recognition with Top2Vec and Scispacy, providing users with an interactive Dash app for deeper insights into extracted text and topics."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 82,
+    "chunk_id": "p82_c0",
+    "content": "Enhancing Object and Lane Detection Capabilities"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 83,
+    "chunk_id": "p83_c0",
+    "content": "Headings Enhancing Object and Lane Detection Capabilities by AI-Driven Computer Vision Problem: XYZ Robotics aims to be a one-stop shop for cutting-edge research and practical applications in computer vision, focusing on object and lane detection to improve automated systems across various industries. Solution: Developed a robust platform that hosts active notebooks and detailed research documentation, equipped with advanced tools and models for object detection and lane detection. ● Data Integration and Management: ○ Utilized extensive datasets such as BDD 100k, Lisa, and Roboflow/Udacity for training and validating models. ○ Employed Nvidia AGX Xavier for high-performance computing needs during model training and benchmarking. ● Advanced Feature Engineering: ○ Implemented models with varying complexities from RetinaNet to LaneNet, each tailored to specific detection tasks. ○ Enhanced models with custom training on specific datasets to improve detection accuracy and performance. ● Predictive Modeling and Machine Learning: ○ Deployed Nvidia’s Object Detection Toolkit (ODTK)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 83,
+    "chunk_id": "p83_c1",
+    "content": "detection tasks. ○ Enhanced models with custom training on specific datasets to improve detection accuracy and performance. ● Predictive Modeling and Machine Learning: ○ Deployed Nvidia’s Object Detection Toolkit (ODTK) and TensorFlow’s Object Detection API (ODAPI) to develop both pretrained and custom models. ○ Utilized technologies like TensorRT for optimizing deep learning models and ONNX for ensuring model compatibility across different AI frameworks. ● Strategic Implementation Tools: ○ Provided detailed inference benchmarks for pretrained models to gauge performance metrics such as frame rates, speed, and accuracy. ○ Developed a fluid validation procedure for fine-tuned models, ensuring continuous improvement and adaptation to new data. Results: Enhanced Detection Accuracy: ● Achieved high mean Average Precision (mAP) across various models, demonstrating the effectiveness of the computer vision solutions. Increased Processing Efficiency:"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 83,
+    "chunk_id": "p83_c2",
+    "content": "of the computer vision solutions. Increased Processing Efficiency:"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 84,
+    "chunk_id": "p84_c0",
+    "content": "● Models optimized with TensorRT showed improved performance, reducing inference times and enabling real-time processing capabilities. Operational Scalability: ● The use of robust datasets and advanced modeling tools has allowed for scalable solutions that can be adapted to a wide range of industrial applications. Tools Used: ● Nvidia AGX Xavier ● TensorRT ● ONNX ● Nvidia ODTK ● TensorFlow ODAPI"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 85,
+    "chunk_id": "p85_c0",
+    "content": "Advanced Railway Monitoring Maintenance Solutions"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 86,
+    "chunk_id": "p86_c0",
+    "content": "Heading: Advanced Railway Monitoring Maintenance Solutions Problem: Railway systems require constant monitoring to detect and address infrastructure defects that could lead to safety hazards. Traditional inspection methods are often time-consuming and may not capture minute details crucial for effective maintenance. Our scalable framework provides live insights and enables predictive maintenance, ensuring a resilient railway network. Solutions Data Integration and Management: ● Utilizes the collected LiDAR data to generate precise \"point clouds\" of elevation points, providing accurate three-dimensional spatial coordinates of railway infrastructure. ● Implements advanced data processing techniques to calculate critical parameters essential for infrastructure analysis. Advanced Feature Engineering: ● Analyzes track profiles, geometry (including cross level and gauge), joints, crossings, curvature, superelevation, and track wear. ● Develops algorithms for detecting joints, crossings, and track wear, integrating these features into a comprehensive monitoring system. Predictive Modeling and Machine Learning: ● Employs machine learning techniques to predict potential infrastructure failures, facilitating"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 86,
+    "chunk_id": "p86_c1",
+    "content": "detecting joints, crossings, and track wear, integrating these features into a comprehensive monitoring system. Predictive Modeling and Machine Learning: ● Employs machine learning techniques to predict potential infrastructure failures, facilitating proactive maintenance strategies. Strategic Implementation Tools: ● Develops standardized output data formats for integration into future dashboard applications. ● Utilizes 3D visualization tools to enhance data reporting and visualization, making it easier for decision-makers to understand and act on the insights provided. Results: ● Enhanced Safety Measures: Enabled the detection of minute defects that traditional methods might miss, significantly reducing the risk of accidents and enhancing overall railway safety. ● Increased Maintenance Efficiency: Provided a framework for predictive maintenance, allowing for timely interventions that prevent larger issues and reduce downtime."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 87,
+    "chunk_id": "p87_c0",
+    "content": "● Operational Excellence: Proposed a streamlined the monitoring process, which will help reduce the time and labor required for inspections and increase the overall efficiency of maintenance operations. Tech Stack ● Python ● SnowFlake ● Amazon EMR ● Databricks"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 88,
+    "chunk_id": "p88_c0",
+    "content": "Forecasting Models for Marketplace Optimization"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 89,
+    "chunk_id": "p89_c0",
+    "content": "AI and Forecasting Models for Marketplace Optimization Problem: The client, a marketplace platform, aimed to enhance their product categorization process through improved image classification and develop predictive models for order forecasting. Additionally, they required an automated data pipeline to ensure seamless model deployment and maintenance. Solution: ● Image Classification Model: Developed a deep learning model using EfficientNet B0 to classify 39 image categories relevant to the platform. By experimenting with multiple architectures and loss functions, the model was fine-tuned for optimal performance. ● Forecasting Model: Created a demand forecasting model leveraging Amazon Forecast to predict order quantities for the next seven days. Various time-series models were tested, including ARIMA, Prophet, and CNN-QR, with DeepAR+ emerging as the top-performing algorithm. ● Pipeline Automation: Implemented automated AWS pipelines to continuously handle model retraining and data preprocessing. This automation ensured the models were kept up-to-date as new data arrived, with failure alerts integrated"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 89,
+    "chunk_id": "p89_c1",
+    "content": "Pipeline Automation: Implemented automated AWS pipelines to continuously handle model retraining and data preprocessing. This automation ensured the models were kept up-to-date as new data arrived, with failure alerts integrated into the system for smooth operations. ● Model Deployment: Deployed both the image classification and forecasting models using AWS Lambda and API Gateway, enabling real-time and batch predictions to be seamlessly integrated into the client’s operational workflow. Results: ● Image Classification Accuracy: Achieved 82% accuracy in classifying 39 product categories, greatly improving the precision and efficiency of product listings on the marketplace. ● Demand Forecasting Accuracy: The DeepAR+ algorithm provided highly accurate demand forecasts, with a Weighted Absolute Percentage Error (WAPE) below 0.20, ensuring reliable predictions for the upcoming seven days. ● Enhanced Operational Efficiency: The automated pipeline and real-time model integration significantly streamlined operations, allowing the organization to manage both product categorization and demand forecasting with minimal manual intervention."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 89,
+    "chunk_id": "p89_c2",
+    "content": "days. ● Enhanced Operational Efficiency: The automated pipeline and real-time model integration significantly streamlined operations, allowing the organization to manage both product categorization and demand forecasting with minimal manual intervention. ● Future Roadmap: A plan was outlined for future AI and data projects, including the development of a comprehensive analytics database and further internal data products like personalized recommendations and customer retention models. Tech tools: ● ARIMA,Prophet,CNN-QR,DeepAR+ ● AWS Lambda ● API Gateway ● AWS Pipelines"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 90,
+    "chunk_id": "p90_c0",
+    "content": "● Docker ● Python"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 91,
+    "chunk_id": "p91_c0",
+    "content": "Real-Time Data Simulation for Sports Analytics"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 92,
+    "chunk_id": "p92_c0",
+    "content": "Headings Enhancing Real-Time Data Simulation for Sports Analytics -The Sportradar Simulator Problem: The client’s current third-party JSON data feed service for simulating sporting events is limited in scope and functionality. There is a need to enhance this service to better support real-time machine learning model testing by replicating and extending the existing \"Push - Events\" and \"Push - Statistics\" feeds. Method: The project will develop a real-time data Simulator that replicates the existing functionality of Sportradar's push services and introduces additional features for enhanced testing capabilities. The simulator will operate on an HTTP publish/subscribe model, pushing updates to subscribed clients and maintaining a heartbeat message to keep connections active. Solution: ● Replication of Existing Feeds: Implement the base functionality of Sportradar’s “Push - Events” and “Push - Statistics” feeds using simulation data. ● Enhanced Filtering Options: Introduce the ability to filter feeds by specific games or game times, allowing users"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 92,
+    "chunk_id": "p92_c1",
+    "content": "Sportradar’s “Push - Events” and “Push - Statistics” feeds using simulation data. ● Enhanced Filtering Options: Introduce the ability to filter feeds by specific games or game times, allowing users to receive data relevant to their testing scenarios. ● Data Editing Capability: Provide mechanisms to edit mock game data, either through direct JSON file modifications or a simple editing interface, to facilitate scenario-based testing. ● Expansion to Additional Sports: Ensure the simulator is scalable to include more sports like Basketball and Hockey, accommodating a broader range of game simulations. ● Real-Time Data Manipulation: Allow users to reset the game clock in real-time to simulate different periods of a game, enhancing the testing of time-sensitive data feeds. Results: ● Customizable Data Feeds: Users can now filter and receive data specific to their needs, enhancing the relevance and efficiency of data consumption. ● Editable Game Scenarios: The ability to modify game data"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 92,
+    "chunk_id": "p92_c2",
+    "content": "Feeds: Users can now filter and receive data specific to their needs, enhancing the relevance and efficiency of data consumption. ● Editable Game Scenarios: The ability to modify game data on-the-fly has significantly improved the flexibility and utility of the simulator for various testing scenarios. ● Extended Sports Coverage: The inclusion of additional sports like Basketball and Hockey has broadened the applicability of the simulator, making it a versatile tool for sports analytics across different leagues and events. ● Real-Time Interaction: The introduction of a real-time game clock manipulation feature has been particularly beneficial for testing time-sensitive data feeds, offering a more dynamic and realistic simulation environment. Tech Tools:"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 93,
+    "chunk_id": "p93_c0",
+    "content": "● Python, PHP ● Docker ● GitLab"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 94,
+    "chunk_id": "p94_c0",
+    "content": "Chatbot Development for Personal Finance Queries"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 95,
+    "chunk_id": "p95_c0",
+    "content": "Chatbot Development for Personal Finance Queries Introduction The rise of digital transformation in financial services has highlighted the need for automated solutions to enhance user engagement and improve access to financial information. To address this gap, Beam Data was tasked with developing a Question and Answer (Q&A) Natural Language Processing (NLP) chatbot for The News Company ABC. This chatbot is designed to provide accurate answers to common personal finance questions by leveraging a vast corpus of relevant financial articles. Problem Statement Consumers often face challenges in accessing timely and reliable financial information, impacting their decision-making processes. Traditional methods, such as relying on financial advisors and customer support, can be expensive and inefficient, particularly as user queries increase. There was a significant need for an automated system capable of quickly retrieving accurate financial data without human intervention. Major Tasks To accomplish the project goals, the following major tasks were undertaken: ●"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 95,
+    "chunk_id": "p95_c1",
+    "content": "significant need for an automated system capable of quickly retrieving accurate financial data without human intervention. Major Tasks To accomplish the project goals, the following major tasks were undertaken: ● Research: Investigating the most effective NLP techniques and information retrieval methods. ● Dataset Development: Building a comprehensive dataset of financial questions and answers. ● NLP Technique Implementation: Applying diverse NLP techniques for improved response accuracy. ● Modeling: Developing and testing several Q&A models to determine the most effective ones. ● Testing and Evaluation: Assessing model performance and ensuring accuracy in retrieved answers through rigorous evaluation techniques. Research Extensive research was performed to evaluate various information retrieval methods, including: ● Extractive Q&A models ● Modern techniques related to information retrieval ● Different embedding models to enhance system performance This research was pivotal in shaping the methods selected for building the chatbot. Build Question and Answer Dataset A diverse dataset was constructed"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 95,
+    "chunk_id": "p95_c2",
+    "content": "Different embedding models to enhance system performance This research was pivotal in shaping the methods selected for building the chatbot. Build Question and Answer Dataset A diverse dataset was constructed using the following sources: ● 49 initial questions from the project proposal covering various personal finance topics."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 96,
+    "chunk_id": "p96_c0",
+    "content": "● 143 questions extrapolated from existing articles with verified true answers. ● Additional datasets from external sources, like the Financial Opinion Mining and Question Answering (FiQA) dataset. This comprehensive dataset allowed for effective training and testing of the chatbot. Applied NLP Techniques Key NLP techniques were implemented, notably: ● Tokenization and Vectorization of text data. ● Removal of irrelevant stopwords to enhance clarity. ● Named Entity Recognition (NER) to extract pertinent financial terms. ● BERT-based embeddings to improve contextual understanding. These techniques were crucial in refining the chatbot's response capabilities. Information Retrieval Testing The chatbot's performance was gauged through several information retrieval methods, including: ● Term Frequency-Inverse Document Frequency (TF-IDF) ● Okapi BM25 ● Dense Passage Retrieval (DPR) Each method was evaluated based on its efficiency and accuracy in retrieving relevant information. Question and Answer Modeling The project explored both extractive and generative modeling techniques, such as: ● Roberta and"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 96,
+    "chunk_id": "p96_c1",
+    "content": "was evaluated based on its efficiency and accuracy in retrieving relevant information. Question and Answer Modeling The project explored both extractive and generative modeling techniques, such as: ● Roberta and XLM-RoBERTa for extractive approaches. ● ChatGPT variants for generative responses. Performance metrics indicated that extractive models generally produced more contextually accurate answers, while generative models offered broader but sometimes less coherent responses. Top Model Performance The FAISS (Facebook AI Similarity Search) method emerged as the leading information retrieval technique, achieving a 95% accuracy rate in retrieving correct answers. The model’s efficiency in handling large data volumes positioned it as the optimal choice for real-time question answering. Future Tasks To enhance the chatbot’s capabilities, the following tasks are planned: ● Testing additional large language models that could yield better performance."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 96,
+    "chunk_id": "p96_c2",
+    "content": "additional large language models that could yield better performance."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 97,
+    "chunk_id": "p97_c0",
+    "content": "● Experimenting with a wider range of embedding techniques. ● Exploring multilingual capabilities to broaden user access. Conclusion This project represents a significant advancement in the development of a chatbot for personal finance queries. By successfully leveraging modern NLP techniques and robust data management, the GAM Q&A chatbot offers users timely, reliable answers to their financial questions, fundamentally transforming how individuals engage with financial information. Tech tools ● Scikit-Learn ● Pandas, Numpy ● NLTK, spaCy ● Infra ○ FAISS (Facebook AI Similarity Search) ○ Jupyter Notebooks"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 98,
+    "chunk_id": "p98_c0",
+    "content": "Smart Agriculture Real-time Data Pipeline"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 99,
+    "chunk_id": "p99_c0",
+    "content": "An agriculture technology company Heading: Real-time Data Streaming Pipeline Optimization in Smart Agriculture Industry Problem： Our client utilizes sensor solutions and provides real-time and actionable insights to make farmers to become more profitable. With the pressure of increasing amount of real-time data collection and its in-time analysis, the client wanted to update the pipeline infrastructure to make it more robust, reliable, and scalable. The current pipeline randomly breaks, takes a long time to process data for frontend users. We proposed several solutions to improve the pipeline reliability and scalability. Solution: 1. Comprehensive data streaming pipeline optimization 2. Real-time data visualization using Quickset Results: ● The new proposed pipeline turns out to be way more efficient and reliable in terms of the massive amount of data collection, visualization, and in-time notifications in communicating with end users. ● The added pre-aggregating the data/min base instead of saving each data point/sec from each"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 99,
+    "chunk_id": "p99_c1",
+    "content": "the massive amount of data collection, visualization, and in-time notifications in communicating with end users. ● The added pre-aggregating the data/min base instead of saving each data point/sec from each device, saving 60% of the storage cost and This should result in less intensive computation of some statistics and prove cost-saving benefits. ● Deployed an anomaly detection model to output an anomaly score for each device; The lambda function checks for any abnormal score and notify the user via text message using SNS service. Tools: Tools used: AWS (IoT Core, Kinesis Data Firehose, Kinesis data Analytics, S3, Lambda, DynamoDB, API Gateway, SNS, Athena, Quickset)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 100,
+    "chunk_id": "p100_c0",
+    "content": "Efficient Data Collection for Watch Collection"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 101,
+    "chunk_id": "p101_c0",
+    "content": "WCC - Cost-Effective and Rapid Web Scraping Solutions Heading: “Optimizing Data-Driven Decisions Through Efficient Web Scraping” Problem： The client's existing web scraping solution was costly and slow, hindering their ability to provide timely and comprehensive data for a user-friendly web platform. They required a more efficient and economical solution to gather detailed analytics on product pricing, popularity, and other key metrics to aid in consumer purchase decisions. Solution: ● Developed robust data pipelines using Airflow to automate web scraping from over 20 diverse sources, with the capability for further expansion. ● Implemented a redundant data architecture on AWS to ensure data integrity and constant availability. ● Utilized proxy servers to enhance the success rate and reliability of data collection. ● Designed an intuitive API, leveraging Amazon CDN to ensure seamless content delivery and frontend integration. ● Introduced an innovative URL check system to create a unique hash ID for each"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 101,
+    "chunk_id": "p101_c1",
+    "content": "Designed an intuitive API, leveraging Amazon CDN to ensure seamless content delivery and frontend integration. ● Introduced an innovative URL check system to create a unique hash ID for each page, allowing daily scrapes to skip URLs already present in the database. Results: ● Achieved a web scraping success rate exceeding 95% within the first six months, with ongoing enhancements. ● Implemented the hash ID system, resulting in a 90% cost reduction in EC2 instance usage and proxy server expenses. ● Up to 80% faster data updates due to reduced scraping time, leading to more timely and accurate analytics."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 102,
+    "chunk_id": "p102_c0",
+    "content": "Event Recommendation Optimization"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 103,
+    "chunk_id": "p103_c0",
+    "content": "Recommender system optimization Heading: Revolutionizing User Experience Recommendations Problem: The client’s existing batch-run recommender system was unable to keep pace with its growing user base, leading to delays in recommendation updates and negatively impacting user satisfaction. Users had to wait until the next day to see updated recommendations, which was not conducive to on-the-spot decision making. Beam Data has successfully developed and deployed an innovative on-demand recommender system for SponsorABC, enhancing user experience by providing instant sponsor recommendations for events. Solution: Refactoring and Modularizing the Recommender Script: ● Improved the script's structure and readability, aligning it with best practices and preparing it for further optimization. Optimizing Memory Usage and Runtime: ● Identified and eliminated inefficiencies, significantly reducing memory usage and runtime. ● Implemented a new strategy to calculate distances only for updated user or organization pairs, storing these values in DynamoDB to avoid redundant processing. Deploying an On-Demand Version of"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 103,
+    "chunk_id": "p103_c1",
+    "content": "runtime. ● Implemented a new strategy to calculate distances only for updated user or organization pairs, storing these values in DynamoDB to avoid redundant processing. Deploying an On-Demand Version of the Recommender Script: ● Transitioned the system to AWS Lambda, allowing for real-time recommendation generation directly triggered by user actions in the web app. ● Developed a robust deployment pipeline that includes a SQL database trigger to initiate the Lambda function, ensuring immediate processing and response. Results: The newly implemented on-demand recommender system has dramatically improved the efficiency and user experience of SponsorABC’s platform: ● Performance Enhancements: ○ Achieved a 90% reduction in runtime and a 75% decrease in memory usage, facilitating a faster and more responsive system."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 104,
+    "chunk_id": "p104_c0",
+    "content": "● User Experience Improvements: ○ Eliminated next-day waiting periods for recommendation updates, enabling real-time interaction and satisfaction for users. ● Operational Efficiency: ○ Streamlined interactions between the web app and the database, reducing overhead and potential errors. Tech tools: ● Python Libraries (cProfile, tracemalloc, nakeViz) ● AWS Lambda ● DynamoDB ● SQL Database"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 105,
+    "chunk_id": "p105_c0",
+    "content": "Advanced Health Data Integration"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 106,
+    "chunk_id": "p106_c0",
+    "content": "Headings: Advanced Health Data Integration and Predictive Analytics Initiative Problem： Enhance the development of a health management application by systematically aggregating and analyzing health service information from various apps integrated with Apple Health. Solution: Provided comprehensive insights into the types of health metrics collected by these apps, thereby enabling more targeted and effective feature integration for improved user engagement and service delivery in the health management platform. Results: ● Enhanced App Feature Set: By analyzing and integrating data from various health and fitness apps, the project significantly enriched the client's health management platform with targeted health metrics, offering users more personalized and relevant health insights. ● Improved Predictive Capabilities: The integration of a ML model allowed for the prediction of health irregularities based on user data, enhancing the platform’s ability to provide timely notifications and interventions ● Streamlined Data Collection Process: The use of advanced web scraping techniques reduced the"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 106,
+    "chunk_id": "p106_c1",
+    "content": "health irregularities based on user data, enhancing the platform’s ability to provide timely notifications and interventions ● Streamlined Data Collection Process: The use of advanced web scraping techniques reduced the data collection and processing time by 70%, demonstrating an efficient method to continuously update and expand the platform's database with new health app integrations."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 107,
+    "chunk_id": "p107_c0",
+    "content": "Emergency Services Dashboard Reporting"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 108,
+    "chunk_id": "p108_c0",
+    "content": "Emergency Services Dashboard Reporting Heading: Dashboard Building for RMS KPI Reporting Problem: The client is specializing in records management software for fire services, faced challenges in providing real-time, data-driven decision-making tools for fire departments. Their existing reporting system lacked the capability to offer detailed and dynamic insights into key performance indicators (KPIs) crucial for efficient emergency response and resource management. Solution: ● Development of PowerBI Dashboards: ○ Standardized dashboards were created to display various metrics enhancing situational awareness and operational readiness. Enabled tailored ad-hoc reports and insights; ● Predictive Analytics Implementation: ○ A comprehensive dashboard utilized historical data to forecast event frequency and resource allocation, aiding in proactive management and planning. ○ Predictive models were developed to anticipate future demands and optimize resource distribution. Results ● Predictive analytics help forecast incident trends and resource needs, ensuring better preparedness and response strategies. ● Real-time data visualization provide up-to-date information that supports"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 108,
+    "chunk_id": "p108_c1",
+    "content": "and optimize resource distribution. Results ● Predictive analytics help forecast incident trends and resource needs, ensuring better preparedness and response strategies. ● Real-time data visualization provide up-to-date information that supports quick and informed decisions during emergency responses, and forecasting have streamlined the operations, allowing for more effective management of personnel and equipment. ● results The integration of MongoDB for data handling and the use of advanced analytical tools in PowerBI facilitated a robust, scalable solution tailored to the unique needs of fire services. This initiative not only enhanced the client’s product offering but also reinforced their commitment to empowering fire departments with modern, effective tools for saving lives and managing resources."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 109,
+    "chunk_id": "p109_c0",
+    "content": "Data Analysis Services for a News Platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 110,
+    "chunk_id": "p110_c0",
+    "content": "Heading Dashboard and Data Analysis Services for a News Platform Problem The client, a prominent news platform, faced challenges in effectively monitoring and analyzing article performance amidst an expanding daily news output. They needed to make timely, data-driven decisions, which were essential for optimizing their paywall model's performance and driving subscription growth. Solution Our team worked closely with the client to design and implement a set of dynamic dashboards that provide real-time insights into their news data. Key elements of the solution included: ● Performance Monitoring and Alert Dashboards: These dashboards allow the editorial team to continuously track key performance metrics and receive timely alerts on significant changes. Key features include: ○ Daily Trendline Report: A visual representation of performance trends, helping the team quickly spot peaks and drops in engagement. ○ Section Content Analysis: An in-depth evaluation of performance across different sections, guiding content prioritization and strategic development. ○"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 110,
+    "chunk_id": "p110_c1",
+    "content": "trends, helping the team quickly spot peaks and drops in engagement. ○ Section Content Analysis: An in-depth evaluation of performance across different sections, guiding content prioritization and strategic development. ○ Metrics by Content ID: Detailed insights into individual article performance, facilitating targeted improvements and adjustments. ○ SCP Analysis Dashboard: An analysis of audience engagement patterns to refine content offerings and enhance reader retention. ● Content Paywall Report: Provides comprehensive insights into subscription conversion rates, identifying opportunities to optimize paywall strategies and increase revenue. ● A/B Testing and Audience Segmentation Analysis: We conducted A/B tests to evaluate the effectiveness of various control groups, ensuring that strategies are optimized for different audience segments. Key features include: ○ Optimal Stop Rate Analysis: Identifies key drop-off points in user engagement, enabling data-driven adjustments to retain audience interest."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 110,
+    "chunk_id": "p110_c2",
+    "content": "key drop-off points in user engagement, enabling data-driven adjustments to retain audience interest."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 111,
+    "chunk_id": "p111_c0",
+    "content": "Results ● Enhanced Insight and Agility: The data science team gained continuous visibility into site performance, leading to rapid adaptations to audience trends and content strategies, resulting in a 35% improvement in response time to audience engagement changes. ● Informed Decision-Making: Data-driven insights extracted from A/B testing improved decision-making processes. ● Optimized Content Strategy: Actionable recommendations derived from data analysis empowered stakeholders to tailor content offerings effectively, resulting in a 23% increase in conversion rates. Tech Stacks ● Data Warehousing: Snowflake ● Data Visualization Tools: Tableau"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 112,
+    "chunk_id": "p112_c0",
+    "content": "Smart City Data Showcase and Building Data Roadmap"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 113,
+    "chunk_id": "p113_c0",
+    "content": "Heading: Smart City Data Showcase and Building Data Roadmaps: \"Optimizing Data Pipelines and Visualization for Augmented Reality and Tourism Insights\" Problem: Company 666 required an optimized data pipeline and visualization solution to integrate and analyze GPS, user engagement, and third-party data for their augmented reality tourism platform. The challenge included combining various data sources, providing insights from campaign data, and developing a scalable analytics platform to support multi-resource data ingestion and future growth. Solution: A data pipeline was built to integrate GPS and user activity data, which was visualized through dashboards using CosmosDB and Grafana. The solution optimized data flow and added the ability to incorporate third-party data sources for enhanced insights, all while preparing for future scalability and analytics improvements. Results: ● Optimized Data Pipeline: Improved the client’s data pipeline to handle more analytics throughput and streamline the ingestion of GPS and third-party data. ● Dashboard Deployment: Successfully deployed"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 113,
+    "chunk_id": "p113_c1",
+    "content": "improvements. Results: ● Optimized Data Pipeline: Improved the client’s data pipeline to handle more analytics throughput and streamline the ingestion of GPS and third-party data. ● Dashboard Deployment: Successfully deployed a real-time, user-friendly dashboard into the client’s platform using CosmosDB and Grafana for visualizing tourism attraction insights. ● Scalable Data Platform: Preliminary research conducted on building a scalable, future-proof data platform to support Company 666’s growing data analysis needs."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 114,
+    "chunk_id": "p114_c0",
+    "content": "Data-Driven Fashion Sustainability Dashboard"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 115,
+    "chunk_id": "p115_c0",
+    "content": "Data-Driven Fashion Sustainability Dashboard Overview: The client a fashion-tech company dedicated to sustainability, engaged Beamdata to develop a data analytics and tracking solution to enhance user engagement, retention, and behavior insights. The project aimed to provide actionable data that aligns with client’s mission of helping users make conscious wardrobe choices while reducing fashion waste. Solution: 1. Data Tracking & Reporting: ○ Implemented tracking for key user metrics such as DAU (Daily Active Users) and MAU (Monthly Active Users) to gauge overall platform engagement. ○ Addressed delayed retailer sales reporting by using event tracking for user interactions with retailer websites, providing more immediate insights into purchase intent and behavior. ○ Developed churn analysis to monitor user retention over the first day, month, and quarter after signup, as well as conducting app uninstall analysis across both iOS and Android platforms. 2. Cohort & Churn Analysis: ○ Conducted cohort analysis to break down"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 115,
+    "chunk_id": "p115_c1",
+    "content": "month, and quarter after signup, as well as conducting app uninstall analysis across both iOS and Android platforms. 2. Cohort & Churn Analysis: ○ Conducted cohort analysis to break down user engagement by weeks after signup, helping to identify drop-off points and improve user retention strategies. ○ Analyzed churn metrics (D1, M1, M3 churn) to understand when and why users leave the platform, helping inform targeted interventions to reduce churn. 3. Reporting & Dashboards: ○ Built a Metabase Dashboard that automates the reporting process and provides the client with a user-friendly interface for visualizing key data. ○ The dashboard includes metrics such as DAU, MAU, and retention rates and allows users to filter data by time periods, user segments, and behaviors for more granular insights. ○ Integrated customer and product segmentation features, enabling the team to track how different user groups and product features affect overall engagement and retention. Results:"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 115,
+    "chunk_id": "p115_c2",
+    "content": "behaviors for more granular insights. ○ Integrated customer and product segmentation features, enabling the team to track how different user groups and product features affect overall engagement and retention. Results: ● Enhanced Data Visibility: Real-time access to user engagement data, allowing for faster and more informed decision-making regarding product improvements and marketing strategies. ● Improved Retention Insights: With detailed churn and cohort analysis, the client is better equipped to understand user behavior, reduce churn, and increase user retention through targeted efforts. ● Comprehensive Dashboard: The Metabase dashboard has become a central tool for tracking and visualizing organization’s key performance indicators (KPIs), offering insights into daily and monthly user activity and overall platform health. ● Sustainability Focus: The data insights align with client’s mission of reducing fashion waste by helping users maximize the use of their existing wardrobes and make more sustainable buying decisions. This project supports the business goal of"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 115,
+    "chunk_id": "p115_c3",
+    "content": "with client’s mission of reducing fashion waste by helping users maximize the use of their existing wardrobes and make more sustainable buying decisions. This project supports the business goal of driving sustainable fashion choices through data-driven insights, improving user engagement, and fostering a more conscious fashion ecosystem."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 117,
+    "chunk_id": "p117_c0",
+    "content": "E-commerce Sales Dashboard"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 118,
+    "chunk_id": "p118_c0",
+    "content": "Sales Performance and SKU Optimization Dashboard Objective: The goal of the project was to gain deeper insights into sales performance across different channels, including Amazon and non-Amazon platforms. The goal was to optimize sales strategies, understand SKU performance, and make informed decisions to enhance overall profitability and operational efficiency. Solution: ● Data Consolidation and Cleaning: ○ Consolidated sales and fulfillment data from Amazon and non-Amazon channels, ensuring clean and consistent data. ○ Split data into Canadian and non-Canadian orders for region-specific analysis, and corrected errors in geographical data using postal codes. ○ Performed feature engineering to derive insights on seasonal trends, sales states, and pricing impacts. ● Sales and SKU Performance Analysis: ○ Analyzed sales trends across products, regions, and time periods, highlighting key metrics like sales per SKU, shipping costs, and seasonal performance. ○ Built interactive dashboards to monitor SKU-level performance, enabling detailed analysis of product profitability and sales"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 118,
+    "chunk_id": "p118_c1",
+    "content": "time periods, highlighting key metrics like sales per SKU, shipping costs, and seasonal performance. ○ Built interactive dashboards to monitor SKU-level performance, enabling detailed analysis of product profitability and sales patterns. ○ Evaluated the impact of marketing efforts on sales, offering insights into which campaigns and promotions delivered the best return on investment. Results: ● Delivered actionable insights into sales performance and SKU optimization, allowing the client to make informed decisions about product strategies and marketing campaigns. ● Provided a consolidated, cleaned dataset that supports better analysis of sales trends and customer behavior across channels. ● Equipped the business, with tools and strategies for future growth, including sales forecasting and customer segmentation to enhance profitability and customer retention."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 119,
+    "chunk_id": "p119_c0",
+    "content": "Data Warehouse for Automotive Auction Analytics"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 120,
+    "chunk_id": "p120_c0",
+    "content": "Heading: Enterprise Azure Data Warehouse for Automotive Auction Analytics: \"Centralizing Disparate Business Systems into a Modern Cloud Data Platform for Enterprise Reporting, Analytics, and Decision-Making\" Problem: A leading collector car auction company operated multiple business platforms—including auction management systems, vehicle listing platforms, CRM systems, finance applications, marketing platforms, and customer databases—that generated large volumes of disconnected data. Business users faced challenges in consolidating information across systems, producing reliable reports, maintaining data quality, and performing cross-functional analysis. Existing reporting processes relied on complex queries, duplicated business logic, inconsistent data cleansing rules, and siloed datasets, making it difficult to obtain a unified view of customers, sales, consignments, bidders, marketing performance, and financial operations. Solution: BeamData designed and implemented an enterprise Azure-based cloud data warehouse that centralized data from multiple business applications into a single governed analytics platform. The solution leveraged Azure Data Factory (ADF), Azure Data Lake, Azure Synapse Analytics, Azure Functions,"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 120,
+    "chunk_id": "p120_c1",
+    "content": "data warehouse that centralized data from multiple business applications into a single governed analytics platform. The solution leveraged Azure Data Factory (ADF), Azure Data Lake, Azure Synapse Analytics, Azure Functions, and dbt to automate data ingestion, transformation, data quality management, dimensional modeling, and reporting workflows. The platform established standardized enterprise identifiers, reusable business dimensions and fact tables, centralized governance processes, automated pipelines, and scalable analytics infrastructure capable of supporting future advanced analytics and real-time use cases. Results: ● Enterprise Data Centralization: Consolidated data from auction platforms, CRM systems, finance applications, marketing systems, Salesforce, Business Central, Google Analytics, Mailchimp, SparkPost, Ongage, and other operational systems into a unified enterprise data warehouse. ● Modern Azure Data Platform: Built a scalable cloud-native architecture using Azure Data Factory, Azure Data Lake, Azure Synapse Analytics, Azure Functions, and dbt, providing a secure, elastic, and cost-efficient foundation for analytics. ● Improved Data Quality: Developed centralized data"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 120,
+    "chunk_id": "p120_c2",
+    "content": "using Azure Data Factory, Azure Data Lake, Azure Synapse Analytics, Azure Functions, and dbt, providing a secure, elastic, and cost-efficient foundation for analytics. ● Improved Data Quality: Developed centralized data cleansing and standardization pipelines that automatically resolved inconsistencies across customer, email, and business records, improving data accuracy and governance. ● Dimensional Data Models: Designed subject-area dimensional models covering auctions, consignments, vehicles, customers, bidders, finance, sales, and marketing, enabling consistent enterprise reporting and self-service analytics. ● Simplified Business Reporting: Reduced query complexity through optimized dimensional models, bridge tables, flattened datasets, and standardized business logic, significantly improving analyst productivity and report development. ● Unified Customer View: Established enterprise customer identifiers that connected customer records across multiple business systems, enabling more accurate customer analytics and lifecycle tracking. ● Marketing Attribution & Campaign Analytics: Enabled end-to-end tracking of customer engagement, including email opens, clicks, conversions, consignments, and auction participation, providing deeper marketing performance insights."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 120,
+    "chunk_id": "p120_c3",
+    "content": "analytics and lifecycle tracking. ● Marketing Attribution & Campaign Analytics: Enabled end-to-end tracking of customer engagement, including email opens, clicks, conversions, consignments, and auction participation, providing deeper marketing performance insights."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 121,
+    "chunk_id": "p121_c0",
+    "content": "● Automated Data Operations: Implemented automated ingestion, transformation, scheduling, monitoring, and notification workflows that reduced manual maintenance effort and improved operational reliability. ● Future-Ready Analytics Foundation: Created a platform capable of supporting future initiatives such as real-time data pipelines, advanced analytics, machine learning, customer intelligence, and large-scale business reporting. Technologies: ● Microsoft Azure Data Factory (ADF) ● Azure Data Lake ● Azure Synapse Analytics ● Azure Functions ● dbt (Data Build Tool) ● SQL Server ● Power BI ● Spark ● Enterprise Dimensional Modeling ● Data Governance & Master Data Management (MDM)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 122,
+    "chunk_id": "p122_c0",
+    "content": "Digital Document Automation Platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 123,
+    "chunk_id": "p123_c0",
+    "content": "Heading: Digital Document Automation Platform for Automotive Auctions: \"Digitizing Paper-Based Auction Operations Through AI-Powered Form Processing, Workflow Automation, and Customer Document Management\" Problem: The automotive auction company’s auction operations relied heavily on paper-based processes for consignors, bidders, vehicle registrations, and supporting auction documentation. Staff spent significant time manually processing forms, entering handwritten information, validating data, managing document workflows, tracking incomplete applications, and coordinating signatures. Existing processes created operational inefficiencies, limited self-service capabilities, slowed customer onboarding, and made it difficult to scale operations as auction volumes increased. The organization also needed a flexible solution that could integrate with its core Auctioneer platform, future A5 platform upgrades, and the newly established cloud data warehouse. Solution: BeamData designed and implemented a Digital Document Application using Microsoft Power Platform to modernize and automate document-driven auction workflows. The solution leveraged Power Apps, Power Automate, AI Builder, Dataverse, Azure services, and integration with Auctioneer to create"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 123,
+    "chunk_id": "p123_c1",
+    "content": "Application using Microsoft Power Platform to modernize and automate document-driven auction workflows. The solution leveraged Power Apps, Power Automate, AI Builder, Dataverse, Azure services, and integration with Auctioneer to create a low-code digital workflow platform. Key capabilities included AI-powered handwritten form extraction, automated validation rules, digital document management, workflow orchestration, customer onboarding support, and integration with enterprise systems through APIs and cloud services. The platform was architected as a modular microservices-based ecosystem capable of supporting future automation, analytics, and machine learning use cases. Results: ● Digitized Paper-Based Processes: Replaced manual paper processing workflows with digital document capture, validation, and submission processes for consignors and bidders. ● AI-Powered Form Extraction: Implemented AI Builder-based handwritten text recognition that automatically extracted information from customer forms, significantly reducing manual data entry effort. ● Improved Operational Efficiency: Streamlined document intake, customer registration, consignment management, and bidder onboarding processes through workflow automation and standardized digital forms."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 123,
+    "chunk_id": "p123_c2",
+    "content": "customer forms, significantly reducing manual data entry effort. ● Improved Operational Efficiency: Streamlined document intake, customer registration, consignment management, and bidder onboarding processes through workflow automation and standardized digital forms. ● Reduced Data Entry Errors: Built automated validation rules and review workflows that enabled staff to verify extracted information before submission into Auctioneer, improving data quality and accuracy. ● Modern User Experience: Delivered a simplified, intuitive interface that improved usability for auction operations teams while reducing training requirements and operational friction. ● Modular Microservices Architecture: Established a scalable application framework where individual business capabilities could be developed and deployed independently while integrating with core enterprise systems. ● Enterprise Integration Framework: Designed multiple integration patterns including API-first architecture, on-premises data gateways, Azure Functions, and cloud data warehouse connectivity to support current and future business requirements. ● Auctioneer Platform Integration: Enabled seamless exchange of customer, consignment, bidder, and auction information between the"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 123,
+    "chunk_id": "p123_c3",
+    "content": "Azure Functions, and cloud data warehouse connectivity to support current and future business requirements. ● Auctioneer Platform Integration: Enabled seamless exchange of customer, consignment, bidder, and auction information between the Digital Document App and Auctioneer ecosystem."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 124,
+    "chunk_id": "p124_c0",
+    "content": "● Foundation for Advanced Automation: Created a platform capable of supporting future capabilities such as machine learning-powered analytics, predictive insights, document intelligence, and expanded workflow automation. ● Cloud Data Warehouse Enablement: Integrated with the Azure cloud data warehouse initiative, allowing operational workflows and business processes to leverage enterprise analytics and historical customer insights. Technologies: ● Microsoft Power Apps ● Microsoft Power Automate ● Microsoft AI Builder ● Microsoft Dataverse ● Microsoft Power Platform ● Azure Functions ● Azure SQL ● Azure Data Warehouse / Synapse ● On-Premises Data Gateway ● REST APIs ● DocuSign Integration ● SQL Server ● Microsoft 365 Ecosystem Business Value: This project transformed a traditionally paper-heavy auction operation into a modern digital workflow platform. By combining AI-driven document extraction, low-code application development, workflow automation, and enterprise integration, the client significantly improved operational efficiency while creating a scalable foundation for future digital transformation initiatives across customer onboarding,"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 124,
+    "chunk_id": "p124_c1",
+    "content": "AI-driven document extraction, low-code application development, workflow automation, and enterprise integration, the client significantly improved operational efficiency while creating a scalable foundation for future digital transformation initiatives across customer onboarding, auction management, and business process automation."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 125,
+    "chunk_id": "p125_c0",
+    "content": "AI-Powered Sales & Marketing Optimization Platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 126,
+    "chunk_id": "p126_c0",
+    "content": "Heading: AI-Powered Sales & Marketing Optimization Platform for Automotive Auctions: \"Using Predictive Analytics, Customer Intelligence, and Recommendation Engines to Maximize Auction Revenue and Marketing Effectiveness\" Problem: After successfully centralizing auction, customer, and marketing data into a unified platform during Phase 1, The Automotive Auction Company sought to move beyond reporting and historical analytics toward predictive and prescriptive decision-making. The company wanted to improve vehicle marketing effectiveness, optimize auction docket planning, increase bidder engagement, maximize auction profitability, and personalize customer outreach. Existing marketing and auction planning processes relied heavily on manual expertise and intuition, limiting scalability and making it difficult to consistently identify the highest-value opportunities across thousands of customers, vehicles, and auction events. Solution: Twenty-Ten proposed and designed a suite of AI-driven sales and marketing optimization tools that leveraged centralized The Automotive Auction Company and CCN data to generate actionable recommendations for marketing, auction operations, and customer engagement. The platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 126,
+    "chunk_id": "p126_c1",
+    "content": "of AI-driven sales and marketing optimization tools that leveraged centralized The Automotive Auction Company and CCN data to generate actionable recommendations for marketing, auction operations, and customer engagement. The platform combined machine learning, predictive modeling, customer segmentation, vehicle segmentation, recommendation engines, and optimization algorithms to support auction planning and personalized marketing activities. The initiative was structured as a multi-phase analytics roadmap that included immediate business-impact applications and foundational capabilities for future AI-powered marketing personalization and advanced analytics. Results: ● Lead Generation Intelligence: Developed predictive models that identify the customers most likely to bid aggressively on specific vehicles, enabling more targeted marketing campaigns and higher vehicle-level profitability. ● Auction Docket Optimization: Created optimization algorithms that recommend the ideal vehicle placement, ordering, and scheduling within auction events to maximize outcomes such as profit, close rates, and auction performance. ● Personalized Vehicle Recommendations: Designed a recommendation engine that determines which vehicles should be"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 126,
+    "chunk_id": "p126_c2",
+    "content": "and scheduling within auction events to maximize outcomes such as profit, close rates, and auction performance. ● Personalized Vehicle Recommendations: Designed a recommendation engine that determines which vehicles should be promoted to each customer based on historical bidding, purchasing, and engagement behavior. ● Real-Time Marketing Personalization: Extended recommendation capabilities to support dynamic website experiences, mobile applications, and future interactive or augmented reality customer engagement channels. ● Customer Segmentation Framework: Established behavioral and attitudinal customer segments that enable more precise targeting, personalized communications, and strategic marketing planning. ● Vehicle Segmentation Intelligence: Developed vehicle classification and segmentation models that group vehicles based on auction performance, buyer interest, and market characteristics, improving recommendation accuracy. ● Continuous Learning Models: Designed machine learning systems capable of continuously improving recommendations using auction outcomes, marketing responses, customer interactions, and bidding behavior."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 126,
+    "chunk_id": "p126_c3",
+    "content": "of continuously improving recommendations using auction outcomes, marketing responses, customer interactions, and bidding behavior."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 127,
+    "chunk_id": "p127_c0",
+    "content": "● Privacy & Compliance Framework: Incorporated governance, compliance reviews, and data usage planning to ensure advanced analytics capabilities remained aligned with privacy requirements and future data expansion strategies. ● Future Data Integration Readiness: Architected the platform to incorporate first-party website behavior data and third-party consumer data, enabling increasingly sophisticated predictive models over time. ● Foundation for AI-Driven Revenue Growth: Created a roadmap for transforming historical auction data into a strategic asset capable of driving measurable improvements in sales performance, customer engagement, and marketing ROI. Technologies: ● Machine Learning ● Predictive Analytics ● Recommendation Systems ● Customer Segmentation ● Vehicle Segmentation ● Optimization Algorithms ● Marketing Analytics ● Behavioral Analytics ● Data Warehouse & Analytics Platform ● Real-Time Personalization Engines ● AI-Powered Decision Support Systems ● Customer Data Platform Concepts (CDP) Business Value: This initiative represented The Automotive Auction Company's evolution from descriptive analytics to AI-driven decision intelligence. By combining customer"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 127,
+    "chunk_id": "p127_c1",
+    "content": "AI-Powered Decision Support Systems ● Customer Data Platform Concepts (CDP) Business Value: This initiative represented The Automotive Auction Company's evolution from descriptive analytics to AI-driven decision intelligence. By combining customer insights, predictive modeling, recommendation engines, and auction optimization algorithms, the company established a foundation for personalized marketing, improved auction planning, higher customer engagement, and increased profitability across both vehicle sales and marketing operations. The platform transformed centralized data into actionable intelligence that could continuously improve business outcomes as additional customer and behavioral data became available."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 128,
+    "chunk_id": "p128_c0",
+    "content": "AI-Powered Agricultural Customer Service"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 129,
+    "chunk_id": "p129_c0",
+    "content": "Heading: AI-Powered Agricultural Customer Service & Recommendation Platform: \"Transforming Agricultural E-Commerce Through Intelligent Crop Diagnosis, Product Recommendations, and Automated Customer Support\" Problem: An agricultural e-commerce company required a scalable AI-powered customer service solution to support farmers throughout their crop management journey. Traditional customer support processes struggled to provide timely, expert-level guidance on crop diseases, pest management, product selection, and post-purchase support. The client also sought to improve product discovery, increase conversion rates, leverage agricultural knowledge at scale, and create a differentiated digital experience that combines agronomy expertise with e-commerce capabilities. Solution: BeamData designed and developed AgroMind, an AI-powered agricultural intelligence platform that integrates multimodal crop diagnosis, agricultural knowledge retrieval, intelligent product recommendations, and AI-driven customer service into a unified user experience. The platform combines computer vision models, large language models (LLMs), Retrieval-Augmented Generation (RAG), agricultural knowledge bases, recommendation engines, and e-commerce integrations to provide end-to-end support for farmers. Users can"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 129,
+    "chunk_id": "p129_c1",
+    "content": "experience. The platform combines computer vision models, large language models (LLMs), Retrieval-Augmented Generation (RAG), agricultural knowledge bases, recommendation engines, and e-commerce integrations to provide end-to-end support for farmers. Users can upload crop images, ask natural language questions, receive disease diagnosis and treatment recommendations, discover relevant agricultural products, complete transactions, and access AI-powered after-sales support through a single platform. Results: ● AI-Powered Crop Diagnosis: Enabled farmers to identify crop diseases and pest issues through image-based and conversational AI interactions using multimodal machine learning models. ● Agricultural Knowledge Assistant: Built a specialized agricultural knowledge base and RAG-powered chatbot capable of answering agronomy, crop management, and product-related questions. ● Intelligent Product Recommendation Engine: Delivered personalized pesticide, fertilizer, and crop protection product recommendations based on crop conditions, user behavior, and purchase intent. ● Automated Customer Service: Implemented AI-powered customer support capabilities to assist users before and after purchase, reducing reliance on manual support teams."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 129,
+    "chunk_id": "p129_c2",
+    "content": "on crop conditions, user behavior, and purchase intent. ● Automated Customer Service: Implemented AI-powered customer support capabilities to assist users before and after purchase, reducing reliance on manual support teams. ● Integrated E-Commerce Experience: Connected diagnosis, recommendations, transactions, and customer service into a seamless digital workflow to improve customer engagement and conversion. ● Scalable Data and AI Platform: Established a foundation for continuously expanding agricultural datasets, user behavior analytics, recommendation models, and specialized agricultural AI services. ● Future Data Product Enablement: Designed the platform roadmap to support advanced analytics, agricultural intelligence APIs, industry partnerships, and data-driven products for government agencies, insurers, researchers, and enterprise customers."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 130,
+    "chunk_id": "p130_c0",
+    "content": "Women’s Health AI Assistant"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 131,
+    "chunk_id": "p131_c0",
+    "content": "Heading: Women’s Health AI Assistant: \"Enhancing Patient Support, Knowledge Access, and Care Navigation Through Conversational AI\" Problem: Women seeking healthcare information often face challenges accessing reliable, personalized, and timely guidance outside of clinical appointments. Healthcare providers must also manage growing volumes of patient inquiries, onboarding questions, educational content, compliance requirements, and support workflows. The client sought to explore AI-powered solutions that could improve patient engagement, streamline access to trusted health information, support internal operations, and enhance overall healthcare experiences while maintaining strong governance and compliance standards. Solution: BeamData developed a conversational AI assistant designed to support women’s health education, patient engagement, and healthcare navigation. The solution leverages Retrieval-Augmented Generation (RAG), enterprise knowledge management, and AI workflow automation to provide contextual, evidence-based responses from approved healthcare resources and internal knowledge bases. The platform incorporates intelligent knowledge search, compliance-aware information retrieval, automated support capabilities, and analytics dashboards to help both patients and"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 131,
+    "chunk_id": "p131_c1",
+    "content": "evidence-based responses from approved healthcare resources and internal knowledge bases. The platform incorporates intelligent knowledge search, compliance-aware information retrieval, automated support capabilities, and analytics dashboards to help both patients and healthcare teams access information more efficiently while maintaining operational oversight. Results: ● AI-Powered Health Information Assistant: Enabled users to access trusted women’s health information through natural language conversations and contextual knowledge retrieval. ● Enhanced Patient Engagement: Improved accessibility to educational content, health resources, and support information outside traditional clinical interactions. ● Knowledge Management and Search: Centralized healthcare knowledge, policies, procedures, and support resources into a searchable AI-powered platform. ● Operational Efficiency Gains: Reduced manual effort associated with answering repetitive questions, onboarding activities, and information requests. ● Compliance-Aware Information Access: Incorporated governance and knowledge management capabilities to support healthcare compliance and information consistency. ● Actionable Healthcare Insights: Delivered analytics and reporting capabilities to monitor engagement trends, operational performance, and user interactions."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 131,
+    "chunk_id": "p131_c2",
+    "content": "governance and knowledge management capabilities to support healthcare compliance and information consistency. ● Actionable Healthcare Insights: Delivered analytics and reporting capabilities to monitor engagement trends, operational performance, and user interactions. ● Scalable AI Foundation: Established a flexible platform capable of supporting future healthcare use cases such as patient support agents, compliance assistants, quality review workflows, and healthcare analytics initiatives."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 132,
+    "chunk_id": "p132_c0",
+    "content": "News Agent"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 133,
+    "chunk_id": "p133_c0",
+    "content": "Heading: Globe News Agent: \"Delivering Personalized, AI-Powered Access to Trusted Journalism\" Problem: Modern news consumers often have limited time to stay informed and struggle to find the most relevant information through traditional search experiences. While The News Company ABC had experimented with domain-specific chatbots, it lacked a scalable solution that could provide conversational access to its extensive journalism archive while maintaining strict editorial standards, data governance requirements, and alignment with the organization’s journalistic voice. Solution: A conversational AI-powered News Agent was developed to provide readers with personalized access to The News Company ABC journalism through natural language interactions. The solution leverages Retrieval-Augmented Generation (RAG), vector search, and fine-tuned language models to retrieve information exclusively from The News Company ABC articles, ensuring answers remain grounded in trusted editorial content. The platform allows users to ask questions, discover relevant articles, receive AI-generated summaries, and explore topics through an intuitive chat interface integrated"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 133,
+    "chunk_id": "p133_c1",
+    "content": "ensuring answers remain grounded in trusted editorial content. The platform allows users to ask questions, discover relevant articles, receive AI-generated summaries, and explore topics through an intuitive chat interface integrated into The News Company ABC’s web and mobile platforms. Results: ● Personalized News Discovery: Enabled readers to ask natural language questions and receive curated answers sourced directly from The News Company ABC journalism. ● AI-Powered Content Retrieval: Reduced reliance on traditional keyword search by providing contextual article recommendations and conversational access to news content. ● Trusted and Governed Responses: Ensured answers were grounded exclusively in The News Company ABC articles, maintaining editorial integrity and compliance requirements. ● Enhanced Reader Experience: Delivered summarized and personalized content tailored to user interests and information needs. ● Increased User Engagement: Created a more interactive news consumption experience designed to improve reader retention and time spent on The News Company ABC platforms. ● Scalable AI"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 133,
+    "chunk_id": "p133_c2",
+    "content": "information needs. ● Increased User Engagement: Created a more interactive news consumption experience designed to improve reader retention and time spent on The News Company ABC platforms. ● Scalable AI Journalism Platform: Established a reusable AI architecture capable of supporting future newsroom assistants, specialized news agents, and additional content experiences. ● Seamless Digital Integration: Integrated directly into web and mobile news platforms to provide a consistent experience across subscriber touchpoints."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 134,
+    "chunk_id": "p134_c0",
+    "content": "AI-Powered Reporting Assistant"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 135,
+    "chunk_id": "p135_c0",
+    "content": "Heading: AI-Powered Reporting Assistant: \"Accelerating News Discovery and Story Development from Public Meeting Data\" Problem: News organizations spend significant time reviewing lengthy public meeting recordings, agendas, and supporting documents to identify newsworthy stories. At The News Company ABC, reporters manually monitor city council meetings across multiple jurisdictions, resulting in a time-consuming process that limits reporting capacity and increases the risk of missing important developments. Existing tools lacked integrated transcription, summarization, knowledge retrieval, and editorial assistance capabilities tailored to newsroom workflows. Solution: An AI-powered Reporting Assistant was developed to automate the analysis of city council meeting recordings, documents, and agendas. The solution combines video transcription, Retrieval-Augmented Generation (RAG), vector search, and fine-tuned language models to identify newsworthy topics, generate summaries, answer contextual questions, and assist with article drafting. The platform provides reporters with searchable meeting intelligence, source referencing for fact-checking, and automated alerts when potential stories are detected. Human-in-the-loop feedback mechanisms"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 135,
+    "chunk_id": "p135_c1",
+    "content": "contextual questions, and assist with article drafting. The platform provides reporters with searchable meeting intelligence, source referencing for fact-checking, and automated alerts when potential stories are detected. Human-in-the-loop feedback mechanisms allow editors and reporters to continuously improve the system’s recommendations and outputs. Results: ● Accelerated News Discovery: Reduced the time required to identify newsworthy stories from lengthy public meetings through automated topic detection and summarization. ● AI-Assisted Research and Reporting: Enabled reporters to query meeting content, supporting documents, and transcripts through a contextual RAG-based knowledge system. ● Automated Story Development: Generated draft articles, story briefs, and supporting research materials to improve newsroom productivity. ● Improved Editorial Accuracy: Included source references and supporting evidence to facilitate fact-checking and editorial review. ● Continuous Learning Framework: Captured reporter feedback and preferences to improve topic recommendations and content generation over time. ● Scalable Newsroom Operations: Created a repeatable workflow for processing large volumes of"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 135,
+    "chunk_id": "p135_c2",
+    "content": "Continuous Learning Framework: Captured reporter feedback and preferences to improve topic recommendations and content generation over time. ● Scalable Newsroom Operations: Created a repeatable workflow for processing large volumes of public meeting data across multiple municipalities and jurisdictions. ● Significant Productivity Gains: Built upon an existing proof of concept that demonstrated substantial reductions in story preparation time while increasing reporting throughput."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 136,
+    "chunk_id": "p136_c0",
+    "content": "Clinical LLM Evaluation, Routing & Personalization"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 137,
+    "chunk_id": "p137_c0",
+    "content": "Heading: Clinical LLM Evaluation, Routing & Personalization Framework: \"Optimizing AI Model Selection, Safety, and Clinical Documentation Quality Through Intelligent Routing\" Problem: Healthcare organizations adopting AI-assisted clinical documentation face significant challenges in selecting the most appropriate large language models (LLMs) for different clinical tasks. Variations in hallucination risk, template adherence, formatting reliability, clinical accuracy, and clinician editing effort can impact documentation quality, patient safety, and operational efficiency. The client required a systematic framework to benchmark models, evaluate safety and performance, and automatically route clinical documentation tasks to the most suitable AI models while maintaining flexibility for future personalization initiatives. Solution: A comprehensive evaluation, benchmarking, and model-routing framework was designed to assess and operationalize LLMs across multiple clinical documentation workflows. The solution introduced task-based routing logic incorporating clinical risk tiers, task complexity, data governance constraints, and clinician preferences. A large-scale benchmarking system was implemented to measure model performance across quality, safety, formatting,"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 137,
+    "chunk_id": "p137_c1",
+    "content": "introduced task-based routing logic incorporating clinical risk tiers, task complexity, data governance constraints, and clinician preferences. A large-scale benchmarking system was implemented to measure model performance across quality, safety, formatting, compliance, and editing-effort dimensions. The framework also included hallucination risk analysis, style and dictionary compliance evaluation, clinician usability assessment, and an internal evaluation console to support continuous model optimization and future personalization strategies. Results: ● Intelligent Task-Based Model Routing: Established an explainable routing framework that automatically matches clinical documentation tasks to the most suitable AI models based on safety, quality, and operational requirements. ● Comprehensive Model Benchmarking: Developed a standardized evaluation pipeline to compare candidate LLMs across clinical note generation tasks using objective performance, compliance, and safety metrics. ● Enhanced Clinical Safety: Identified hallucination risks, established model eligibility criteria, and defined routing guardrails for high-risk clinical scenarios. ● Reduced Clinician Editing Burden: Measured and optimized editing effort across models to"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 137,
+    "chunk_id": "p137_c2",
+    "content": "Clinical Safety: Identified hallucination risks, established model eligibility criteria, and defined routing guardrails for high-risk clinical scenarios. ● Reduced Clinician Editing Burden: Measured and optimized editing effort across models to improve clinician productivity and reduce documentation workload. ● Improved Consistency and Compliance: Evaluated template adherence, formatting reliability, tone consistency, and clinical dictionary compliance to support standardized documentation outputs. ● Continuous Evaluation Infrastructure: Delivered an internal evaluation console, reusable datasets, scoring rubrics, and benchmarking assets to support ongoing model assessment and future AI adoption. ● Future-Ready Personalization Roadmap: Defined a strategic roadmap for adaptive routing, clinician-specific preferences, and future model fine-tuning initiatives while maintaining safety and governance controls."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 138,
+    "chunk_id": "p138_c0",
+    "content": "Next-Generation AI Learning Platform (LMS)"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 139,
+    "chunk_id": "p139_c0",
+    "content": "Heading: Next-Generation AI Learning Platform (LMS): \"Empowering Institutions with AI-Native Learning, Collaboration, and Workforce Development\" Problem: Educational institutions, academies, and enterprise training providers increasingly require modern learning platforms that go beyond traditional course delivery. Existing LMS solutions often lack integrated collaboration tools, project-based learning capabilities, AI-powered learning support, and deployment flexibility for organizations with strict security and infrastructure requirements. Institutions also need scalable platforms that can support diverse learners, instructors, and training programs across multiple regions while maintaining a consistent learning experience. Solution: WeCloudData developed a next-generation, AI-enabled Learning Management System (LMS) designed for higher education, professional training, and workforce development programs. The platform supports both cloud and on-premise deployment models and features a multi-tenant architecture for serving multiple institutions from a single platform. Beyond traditional LMS functionality, the solution includes Capstone Project Workspaces, Q&A Boards, real-time communication tools, interactive learning content, and integrated collaboration features. AI capabilities such as"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 139,
+    "chunk_id": "p139_c1",
+    "content": "from a single platform. Beyond traditional LMS functionality, the solution includes Capstone Project Workspaces, Q&A Boards, real-time communication tools, interactive learning content, and integrated collaboration features. AI capabilities such as content generation, learning assistants, teaching plan management, and AI-powered project mentoring enhance both learner engagement and instructional efficiency. Results: ● AI-Native Learning Experience: Integrated AI learning assistants, content generation tools, project mentoring, and teaching support to enhance learner outcomes and instructor productivity. ● Project-Based Learning Enablement: Developed dedicated Capstone Project Workspaces that support team collaboration, project management, mentorship, and deliverable tracking. ● Enhanced Learner Engagement: Implemented interactive learning content, discussion boards, chat, announcements, and notification systems to improve communication and participation. ● Flexible Enterprise Deployment: Supports cloud, hybrid, and on-premise deployment models to meet institutional security, compliance, and infrastructure requirements. ● Multi-Tenant Architecture: Enables efficient management of multiple institutions, academies, and training programs within a scalable platform framework. ● Comprehensive"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 139,
+    "chunk_id": "p139_c2",
+    "content": "deployment models to meet institutional security, compliance, and infrastructure requirements. ● Multi-Tenant Architecture: Enables efficient management of multiple institutions, academies, and training programs within a scalable platform framework. ● Comprehensive Learning Operations: Provides end-to-end LMS capabilities including enrollment, assessments, grading, progress tracking, reporting, and learner management. ● International Adoption: Successfully licensed to universities, academies, and training organizations across Singapore, Canada, Germany, and the Middle East. ● Scalable Digital Learning Ecosystem: Combined with WeCloudData's extensive e-learning content library, the platform provides institutions with a complete solution for delivering AI, data, cloud, and technology-focused education at scale."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 140,
+    "chunk_id": "p140_c0",
+    "content": "AI Hub Enterprise Agent Platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 141,
+    "chunk_id": "p141_c0",
+    "content": "Heading: AI Hub Enterprise Agent Platform: \"A Model-Agnostic AI Operating System for Enterprise Knowledge, Automation, and Agentic Workflows\" Problem: Many enterprises face challenges adopting AI at scale due to fragmented tools, vendor lock-in, security concerns, and the need to support both cloud and on-premise deployments. Organizations require a flexible AI platform that can integrate with multiple foundation models, securely leverage internal knowledge, automate business processes, and enable rapid development of AI applications without being tied to a single AI vendor or infrastructure provider. Solution: Beamdata developed AI Hub, a model-agnostic enterprise AI platform that combines conversational AI, Retrieval-Augmented Generation (RAG), AI agents, workflow automation, and low-code/no-code application development capabilities. The platform includes a Model Hub for connecting to multiple LLM providers, a Data Hub for managing enterprise knowledge sources, built-in security and governance controls, and support for both cloud and on-premise deployments. AI Hub enables organizations to build, deploy, and"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 141,
+    "chunk_id": "p141_c1",
+    "content": "providers, a Data Hub for managing enterprise knowledge sources, built-in security and governance controls, and support for both cloud and on-premise deployments. AI Hub enables organizations to build, deploy, and manage AI-powered assistants, knowledge systems, and business automation workflows through a unified platform. Results: ● Model-Agnostic Architecture: Enables organizations to switch between multiple AI models and providers without application redesign, reducing vendor lock-in. ● Enterprise Knowledge Intelligence: Centralized Data Hub and RAG capabilities allow employees to securely access and interact with organizational knowledge and documents. ● Agentic Workflow Automation: Supports AI agents and workflow orchestration to automate complex business processes across departments. ● Rapid AI Application Development: Vibe coding and low-code capabilities accelerate the creation of custom AI applications and business solutions. ● Enterprise Security and Governance: Provides security controls, access management, and deployment flexibility to meet enterprise and government requirements. ● Flexible Deployment Options: Supports cloud, hybrid, and on-premise"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 141,
+    "chunk_id": "p141_c2",
+    "content": "business solutions. ● Enterprise Security and Governance: Provides security controls, access management, and deployment flexibility to meet enterprise and government requirements. ● Flexible Deployment Options: Supports cloud, hybrid, and on-premise environments, enabling organizations to maintain control over sensitive data and AI infrastructure. ● Scalable AI Foundation: Establishes a future-ready platform for expanding AI adoption across knowledge management, decision support, automation, and operational workflows."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 142,
+    "chunk_id": "p142_c0",
+    "content": "EdTech Project Management Platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 143,
+    "chunk_id": "p143_c0",
+    "content": "Heading: EdTech Project Management Platform: \"Streamlining Training Operations, Resource Planning, and Cohort Management for Large-Scale Learning Programs\" Problem: A client in the defence sector required a centralized platform to manage the growing complexity of large-scale training initiatives involving multiple courses, cohorts, instructors, resources, and stakeholders. Existing processes relied heavily on spreadsheets and manual coordination, making it difficult to track project progress, allocate resources efficiently, manage student onboarding, and maintain visibility across concurrent training programs. Solution: A comprehensive EdTech Project Management Platform was developed to support end-to-end management of training projects, including course planning, cohort scheduling, resource allocation, instructor coordination, and project progress tracking. The platform was seamlessly integrated with WeCloudData’s Learning Management System (LMS), enabling automated student onboarding, course enrollment, and synchronization of training data across both systems. Results: ● Centralized Training Operations: Consolidated project planning, cohort management, resource allocation, and progress tracking into a single platform. ● Improved Resource"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 143,
+    "chunk_id": "p143_c1",
+    "content": "and synchronization of training data across both systems. Results: ● Centralized Training Operations: Consolidated project planning, cohort management, resource allocation, and progress tracking into a single platform. ● Improved Resource Utilization: Enhanced visibility into instructor availability, training schedules, and project resource requirements across multiple programs. ● Automated Student Onboarding: Integrated with WeCloudData’s LMS to streamline learner registration, enrollment, and course administration processes. ● Enhanced Project Visibility: Provided real-time tracking of training delivery milestones, project status, and operational performance. ● Reduced Administrative Overhead: Eliminated many manual coordination tasks and spreadsheet-based workflows, improving operational efficiency. ● Scalable Training Management: Established a foundation for managing larger volumes of training programs, learners, and stakeholders while maintaining governance and oversight. ● Improved Stakeholder Collaboration: Enabled training managers, project teams, and administrators to collaborate more effectively through a unified operational platform."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 143,
+    "chunk_id": "p143_c2",
+    "content": "training managers, project teams, and administrators to collaborate more effectively through a unified operational platform."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 144,
+    "chunk_id": "p144_c0",
+    "content": "Admission & Assessment Platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 145,
+    "chunk_id": "p145_c0",
+    "content": "Heading: Talent Intelligence: Admission & Assessment Platform: \"Optimizing Candidate Selection, Evaluation, and Onboarding for Training Academies\" Problem: Training providers and academy partners often struggle to manage high volumes of applicants across multiple programs, resulting in fragmented admission workflows, inconsistent candidate evaluations, and significant administrative overhead. Manual processes for scheduling interviews, tracking candidate progress, coordinating communications, and ranking applicants make it difficult to identify top talent efficiently while maintaining a positive candidate experience. Solution: A comprehensive Admission & Assessment Platform was developed to streamline the entire candidate journey, from application submission to onboarding. The platform manages admission pipelines, assessments, interviews, communications, and candidate evaluations within a single system. It includes scalable email automation, self-service interview scheduling and rescheduling, interviewer note-taking capabilities, and structured candidate scoring and ranking tools to support data-driven admission decisions. Results: ● End-to-End Admission Management: Centralized tracking of candidates through application, assessment, interview, acceptance, and onboarding stages. ●"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 145,
+    "chunk_id": "p145_c1",
+    "content": "and structured candidate scoring and ranking tools to support data-driven admission decisions. Results: ● End-to-End Admission Management: Centralized tracking of candidates through application, assessment, interview, acceptance, and onboarding stages. ● Automated Candidate Communications: Scalable email capabilities improved communication efficiency throughout the admission process. ● Self-Service Interview Scheduling: Enabled applicants to book, reschedule, and manage interviews, reducing administrative coordination efforts. ● Structured Candidate Evaluation: Provided interviewers with tools for note-taking, scoring, and standardized assessment of applicants. ● Data-Driven Talent Selection: Automated candidate ranking and comparison capabilities helped admission teams identify the strongest applicants more effectively. ● Improved Admission Visibility: Delivered real-time insights into pipeline performance, candidate progression, and admission outcomes. ● Scalable Recruitment Operations: Established a repeatable and efficient framework for managing large applicant volumes across multiple training programs and cohorts."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 145,
+    "chunk_id": "p145_c2",
+    "content": "managing large applicant volumes across multiple training programs and cohorts."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 146,
+    "chunk_id": "p146_c0",
+    "content": "Job Market Automation Platform"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 147,
+    "chunk_id": "p147_c0",
+    "content": "Heading: Talent Intelligence: Job Market Automation Platform: \"Transforming Global Labor Market Data into Actionable Career and Workforce Insights\" Problem: Organizations, training providers, and workforce development programs often lack timely visibility into rapidly changing labor market demands. Job opportunities, skill requirements, employer hiring trends, and emerging occupations are distributed across thousands of job boards and employer websites, making it difficult to generate accurate career recommendations, connect talent with employers, and align training programs with market needs. Solution: A Job Market Automation Platform was developed to continuously collect and analyze job market data from global employment sources. The platform automates the aggregation, processing, and analysis of job postings, employer demand, skill requirements, and labor market trends. The resulting intelligence supports job recommendation engines, employer engagement initiatives, workforce planning, and data-driven decision-making for talent development programs. Results: ● Automated Global Job Data Collection: Established scalable processes to continuously gather and consolidate labor market"
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 147,
+    "chunk_id": "p147_c1",
+    "content": "engines, employer engagement initiatives, workforce planning, and data-driven decision-making for talent development programs. Results: ● Automated Global Job Data Collection: Established scalable processes to continuously gather and consolidate labor market data from multiple regions and industries. ● Intelligent Job Recommendations: Enabled personalized job matching and career recommendations based on candidate profiles, skills, and market demand. ● Employer Connection Opportunities: Identified potential employer partnerships and hiring opportunities to strengthen talent placement initiatives. ● Labor Market Trend Analysis: Generated insights into emerging roles, in-demand skills, hiring patterns, and workforce gaps across industries. ● Data-Driven Program Planning: Supported training providers in aligning curriculum and workforce development programs with real-world market demand. ● Enhanced Talent Outcomes: Improved the ability to connect learners and job seekers with relevant employment opportunities. ● Scalable Workforce Intelligence Platform: Created a foundation for ongoing labor market monitoring, workforce forecasting, and strategic talent development initiatives."
+  },
+  {
+    "doc_id": "Beam_Data.pdf",
+    "page": 147,
+    "chunk_id": "p147_c2",
+    "content": "seekers with relevant employment opportunities. ● Scalable Workforce Intelligence Platform: Created a foundation for ongoing labor market monitoring, workforce forecasting, and strategic talent development initiatives."
+  }
+]

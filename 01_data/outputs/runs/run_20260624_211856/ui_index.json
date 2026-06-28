@@ -1,0 +1,79 @@
+{
+  "run_id": "run_20260624_211856",
+  "updated_at": "2026-06-24T21:24:11.427696",
+  "agents": {
+    "research": {
+      "status": "completed",
+      "summary": "## 1. Market Scope - **Product/Service**: Enterprise AI platform for chat, knowledge base, and agentic AI workflows. - **Market**: Saudi Arabia. - **Audience**: Enterprise data, AI, and IT leaders evaluating AI platforms. - **Assumptions (if any)**: The market is experiencing rapid growth, and there is a demand for AI solutions tailored to enterprise needs. ## 2. Company Context No relevant internal company or product knowledge was found in the knowledge base. ## 3. Market Insights The Global Agentic AI Workflows Market is projected to grow from USD 5.2 billion in 2024 to around USD 227 billion by 2034, representing a CAGR of 45.8% (source: external research). The AI Agents market is expandi...",
+      "metrics": {},
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\research.ui.json",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\research.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-24T21:19:58.015692"
+    },
+    "strategy": {
+      "status": "completed",
+      "summary": "# GTM Strategy Report ## 1. Executive Summary The GTM strategy for BeamData AI Hub is designed to establish a strong foothold in the rapidly expanding Saudi Arabian market for enterprise AI solutions. By targeting enterprise data, AI, and IT leaders within mid-sized to large organizations, the strategy emphasizes user-friendly integration, operational efficiency, and tailored solutions. This approach aligns with BeamData's brand positioning as a practical enterprise AI platform that supports governed knowledge access and workflow automation, ensuring that organizations can adopt AI solutions with confidence. ## 2. Brand Alignment Foundation The strategy is shaped by the following key brand i...",
+      "metrics": {},
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\strategy.ui.json",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\strategy.ui.json",
+      "section_count": 26,
+      "updated_at": "2026-06-24T21:22:13.895853"
+    },
+    "content": {
+      "status": "completed",
+      "summary": "# Content Assets ## 1. Content Calendar ### 30-Day Content Calendar for BeamData AI Hub | Day | Platform | Content Type | Asset Title | Topic | Target Persona | Funnel Stage | Objective | CTA | Brand Alignment Note | |-----|---------------|----------------------|-----------------------------------------------|--------------------------------------------|-----------------------|----------------------|------------------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------| | 1 | LinkedIn | Thought Leadership | \"The Future of AI in Saudi Arabia\" | Market Trends in AI | All Personas | Awarenes...",
+      "metrics": {},
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\content.ui.json",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\content.ui.json",
+      "section_count": 15,
+      "updated_at": "2026-06-24T21:23:28.039955"
+    },
+    "brand_alignment": {
+      "status": "completed",
+      "summary": "# Brand Alignment Report ## Brand Guidelines Summary - **Tone and Voice**: Maintain a warm, optimistic, and practical tone. The voice should be clear before clever, credible but not stiff, and focused on outcomes without exaggeration. - **Positioning**: Position Beam Data as a practical enterprise AI platform that facilitates governed knowledge access and workflow automation. - **Messaging Do's**: Use concise and specific language that helps enterprise teams adopt AI with confidence, emphasizes knowledge access, and supports tailored workflows with governed AI automation. - **Messaging Don'ts**: Avoid phrases that imply instant transformation or universal applicability, such as \"revolutioniz...",
+      "metrics": {
+        "overall_score": 70.0,
+        "high_count": 2,
+        "low_count": 3,
+        "total_items": 5
+      },
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\brand_alignment.ui.json",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\brand_alignment.ui.json",
+      "section_count": 11,
+      "updated_at": "2026-06-24T21:24:00.438727"
+    },
+    "analysis": {
+      "status": "completed",
+      "summary": "# GTM Campaign Analysis Report ## 1. Performance Summary The campaign generated a total of 150,000 impressions and reached 120,000 unique users. It achieved 3,800 clicks, resulting in a total engagement of 7,500 interactions. The campaign successfully generated 450 leads and resulted in 90 conversions, with an overall cost of $2,500 and revenue of $8,500. ## 2. CTR Analysis The Click-Through Rate (CTR) for the campaign stands at 2.53%. This indicates that out of all the impressions, a small percentage of users clicked on the ads, suggesting potential areas for improvement in ad targeting or creative content. ## 3. Engagement Analysis The engagement rate for the campaign is 5.0%, with a total...",
+      "metrics": {
+        "ctr_percent": null,
+        "conversion_rate_percent": null,
+        "roi_percent": null,
+        "leads": null,
+        "conversions": null
+      },
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\analysis.ui.json",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\analysis.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-24T21:24:11.322180"
+    },
+    "final_output": {
+      "status": "completed",
+      "summary": "{ \"run_id\": \"run_20260624_211856\", \"research\": { \"agent\": \"research\", \"status\": \"completed\", \"generated_at\": \"2026-06-24T21:19:55.044239\", \"user_input\": \"\\nResearch the GTM opportunity for BeamData AI Hub.\\n\\nProduct:\\nEnterprise AI platform for chat, knowledge base, and agentic AI workflows.\\n\\nMarket:\\nSaudi Arabia.\\n\\nAudience:\\nEnterprise data, AI, and IT leaders evaluating AI platforms.\\n\", \"output\": { \"research_output\": \"## 1. Market Scope\\n- **Product/Service**: Enterprise AI platform for chat, knowledge base, and agentic AI workflows.\\n- **Market**: Saudi Arabia.\\n- **Audience**: Enterprise data, AI, and IT leaders evaluating AI platforms.\\n- **Assumptions (if any)**: The market is e...",
+      "metrics": {},
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\final_output.ui.json",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_211856\\final_output.ui.json",
+      "section_count": 1,
+      "updated_at": "2026-06-24T21:24:11.427674"
+    }
+  },
+  "agent_order": [
+    "research",
+    "strategy",
+    "content",
+    "brand_alignment",
+    "analysis",
+    "final_output"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "run_id": "run_20260624_214613",
+  "created_at": "2026-06-24T21:47:17.562244",
+  "status": "running",
+  "files": {
+    "research": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\research.ui.json",
+    "strategy": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\strategy.ui.json",
+    "content": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\content.ui.json",
+    "brand_alignment": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\brand_alignment.ui.json",
+    "analysis": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\analysis.ui.json",
+    "final_output": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\final_output.ui.json"
+  },
+  "ui_files": {
+    "research": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\research.ui.json",
+    "strategy": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\strategy.ui.json",
+    "content": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\content.ui.json",
+    "brand_alignment": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\brand_alignment.ui.json",
+    "analysis": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\analysis.ui.json",
+    "final_output": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\final_output.ui.json"
+  },
+  "agents": {
+    "research": {
+      "status": "completed",
+      "updated_at": "2026-06-24T21:47:17.562279",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\research.ui.json",
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\research.ui.json"
+    },
+    "strategy": {
+      "status": "completed",
+      "updated_at": "2026-06-24T21:49:57.003741",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\strategy.ui.json",
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\strategy.ui.json"
+    },
+    "content": {
+      "status": "completed",
+      "updated_at": "2026-06-24T21:51:14.040864",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\content.ui.json",
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\content.ui.json"
+    },
+    "brand_alignment": {
+      "status": "completed",
+      "updated_at": "2026-06-24T21:51:52.997714",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\brand_alignment.ui.json",
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\brand_alignment.ui.json"
+    },
+    "analysis": {
+      "status": "completed",
+      "updated_at": "2026-06-24T21:52:03.423468",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\analysis.ui.json",
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\analysis.ui.json"
+    },
+    "final_output": {
+      "status": "completed",
+      "updated_at": "2026-06-24T21:52:03.543097",
+      "full_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\final_output.ui.json",
+      "ui_file_path": "c:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260624_214613\\final_output.ui.json"
+    }
+  }
+}

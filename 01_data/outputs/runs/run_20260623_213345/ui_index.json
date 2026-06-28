@@ -1,0 +1,63 @@
+{
+  "run_id": "run_20260623_213345",
+  "updated_at": "2026-06-23T21:41:51.509682",
+  "agents": {
+    "research": {
+      "status": "completed",
+      "summary": "## 1. Market Scope - **Product/Service:** Enterprise AI platform for chat, knowledge base, and agentic AI workflows. - **Market:** Saudi Arabia. - **Audience:** Enterprise data, AI, and IT leaders evaluating AI platforms. - **Assumptions (if any):** The demand for AI-driven solutions is growing in the Middle East, particularly in Saudi Arabia. ## 2. Company Context No relevant internal company or product knowledge was found in the knowledge base. ## 3. Market Insights The global agentic AI workflows market is projected to grow significantly, with an expected value of around USD 227 billion by 2034, up from USD 5.2 billion in 2024, reflecting a CAGR of 45.8% (source: external research). The A...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\research.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\research.ui.json",
+      "section_count": 9,
+      "updated_at": "2026-06-23T21:34:53.681852"
+    },
+    "strategy": {
+      "status": "completed",
+      "summary": "# GTM Strategy Report ## 1. Executive Summary The GTM strategy for BeamData AI Hub aims to establish the platform as a practical enterprise AI solution tailored for the Saudi Arabian market. By focusing on governed knowledge access and workflow automation, the strategy aligns with the increasing demand for AI-driven solutions among enterprise data, AI, and IT leaders. This approach leverages the brand's strengths, ensuring that messaging and channel strategies resonate with the target audience while maintaining credibility and avoiding exaggerated claims. ## 2. Brand Alignment Foundation The strategy is shaped by the following key brand identity principles: - **Brand Voice:** Clear before cl...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\strategy.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\strategy.ui.json",
+      "section_count": 23,
+      "updated_at": "2026-06-23T21:38:51.012435"
+    },
+    "content": {
+      "status": "completed",
+      "summary": "# Content Strategy Report ## 1. Content Strategy Summary The content strategy for BeamData AI Hub is designed to align closely with the approved GTM strategy, focusing on establishing the platform as a practical enterprise AI solution for the Saudi Arabian market. By creating targeted content that addresses the specific pain points and goals of enterprise data, AI, and IT leaders, the strategy aims to enhance brand visibility and credibility. The content will emphasize the platform's strengths in governed knowledge access and workflow automation, ensuring that messaging resonates with the target audience while maintaining a clear and practical tone. Through a structured approach that include...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\content.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\content.ui.json",
+      "section_count": 52,
+      "updated_at": "2026-06-23T21:40:52.833311"
+    },
+    "brand_alignment": {
+      "status": "completed",
+      "summary": "# Brand Alignment Report ## Brand Guidelines Summary - **Tone and Voice**: Maintain a clear, warm, and practical tone that is optimistic and collaborative. The voice should be credible but not stiff, focusing on outcomes without exaggeration. - **Positioning**: Emphasize Beam Data as a practical enterprise AI platform that facilitates governed knowledge access and workflow automation. - **Messaging Do's**: Use partnership and enablement language to help enterprise teams adopt AI with confidence, make organizational knowledge easier to access, and support selected workflows with governed AI automation. - **Messaging Don'ts**: Avoid phrases that suggest instant or revolutionary changes, such a...",
+      "metrics": {
+        "overall_score": 80.0,
+        "high_count": 6,
+        "low_count": 1,
+        "total_items": 7
+      },
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\brand_alignment.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\brand_alignment.ui.json",
+      "section_count": 13,
+      "updated_at": "2026-06-23T21:41:51.411655"
+    },
+    "final_output": {
+      "status": "completed",
+      "summary": "{ \"run_id\": \"run_20260623_213345\", \"research\": { \"agent\": \"research\", \"status\": \"completed\", \"generated_at\": \"2026-06-23T21:34:50.217435\", \"user_input\": \"\\nResearch the GTM opportunity for BeamData AI Hub.\\n\\nProduct:\\nEnterprise AI platform for chat, knowledge base, and agentic AI workflows.\\n\\nMarket:\\nSaudi Arabia.\\n\\nAudience:\\nEnterprise data, AI, and IT leaders evaluating AI platforms.\\n\", \"output\": { \"research_output\": \"## 1. Market Scope\\n- **Product/Service:** Enterprise AI platform for chat, knowledge base, and agentic AI workflows.\\n- **Market:** Saudi Arabia.\\n- **Audience:** Enterprise data, AI, and IT leaders evaluating AI platforms.\\n- **Assumptions (if any):** The demand for...",
+      "metrics": {},
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\final_output.ui.json",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_213345\\final_output.ui.json",
+      "section_count": 1,
+      "updated_at": "2026-06-23T21:41:51.509666"
+    }
+  },
+  "agent_order": [
+    "research",
+    "strategy",
+    "content",
+    "brand_alignment",
+    "final_output"
+  ]
+}

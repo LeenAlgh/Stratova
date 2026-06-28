@@ -1,0 +1,19 @@
+{
+  "run_id": "run_20260623_200915",
+  "created_at": "2026-06-23T20:10:47.784408",
+  "status": "running",
+  "files": {
+    "research": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_200915\\research.ui.json"
+  },
+  "ui_files": {
+    "research": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_200915\\research.ui.json"
+  },
+  "agents": {
+    "research": {
+      "status": "completed",
+      "updated_at": "2026-06-23T20:10:47.784421",
+      "full_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_200915\\research.ui.json",
+      "ui_file_path": "C:\\Users\\Geela\\Documents\\GitHub\\Stratova\\outputs\\runs\\run_20260623_200915\\research.ui.json"
+    }
+  }
+}
