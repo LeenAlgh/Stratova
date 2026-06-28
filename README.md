@@ -170,6 +170,47 @@ Goal: Create a complete go-to-market strategy including market research, competi
 
 ---
 
+## Screenshots
+
+### Input Form
+![Input Form](assets/screenshots/input.png)
+
+### Research Agent
+![Research Agent](assets/screenshots/reasearch.png)
+
+### Research Results
+![Research Results](assets/screenshots/research_result.png)
+
+### Strategy Agent
+![Strategy Agent](assets/screenshots/strategy.png)
+
+### Strategy Results
+![Strategy Results](assets/screenshots/strategy_result.png)
+
+### Buyer Personas and Channels
+![Buyer Personas and Channels](assets/screenshots/strategy_result2.png)
+
+### Content Agent
+![Content Agent](assets/screenshots/content.png)
+
+### Content Calendar
+![Content Calendar](assets/screenshots/content_result.png)
+
+### Content Gallery
+![Content Gallery](assets/screenshots/content_result2.png)
+
+### Brand Alignment Agent
+![Brand Alignment Agent](assets/screenshots/brand_alaignment.png)
+
+### Brand Alignment Results
+![Brand Alignment Results](assets/screenshots/brand_result.png)
+
+### Analysis Dashboard
+![Analysis Dashboard](assets/screenshots/analysis_result.png)
+
+### Analysis Report
+![Analysis Report](assets/screenshots/analysis_result2.png)
+
 ## Future Work
 
 * Social media API integration
