@@ -176,7 +176,7 @@ Goal: Create a complete go-to-market strategy including market research, competi
 ![Input Form](assets/screenshots/input.png)
 
 ### Research Agent
-![Research Agent](assets/screenshots/reasearch.png)
+![Research Agent](assets/screenshots/research.png)
 
 ### Research Results
 ![Research Results](assets/screenshots/research_result.png)
@@ -200,7 +200,7 @@ Goal: Create a complete go-to-market strategy including market research, competi
 ![Content Gallery](assets/screenshots/content_result2.png)
 
 ### Brand Alignment Agent
-![Brand Alignment Agent](assets/screenshots/brand_alaignment.png)
+![Brand Alignment Agent](assets/screenshots/brand_alignment.png)
 
 ### Brand Alignment Results
 ![Brand Alignment Results](assets/screenshots/brand_result.png)
